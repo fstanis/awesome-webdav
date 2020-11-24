@@ -15,6 +15,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
   - [Docker images](#docker-images)
 - [Desktop apps](#desktop-apps)
   - [File managers](#desktop-file-managers)
+  - [Backup and sync](#backup-and-sync)
   - [Other apps](#desktop-other-apps)
 - [Mobile apps](#mobile-apps)
   - [Android](#android)
@@ -22,8 +23,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
     - [Other apps](#android-other-apps)
   - [iOS](#ios)
     - [File managers](#ios-file-managers)
-  - [Cloud providers](#cloud-providers)
-  - [Extensions](#extensions)
+- [Libraries](#libraries)
+  - [C](#c)
+  - [C++](#c-1)
+  - [Go](#go)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [Python](#python)
+- [Cloud providers](#cloud-providers)
+- [Extensions](#extensions)
 
 ## Resources
 
@@ -55,7 +63,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 *Standalone servers specifically built for WebDAV and its extensions*
 
-- [sabre/dav](https://sabre.io/)
+- [sabre/dav](https://sabre.io/) - open source CardDAV, CalDAV and WebDAV server
+- [SFTPGo](https://github.com/drakkan/sftpgo) - SFTP server with optional FTP/S and WebDAV support
 
 ### Web servers
 
@@ -79,15 +88,25 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 <a name="desktop-file-managers" />
 
-### File managers
+### File managers and tools
 
 *General purpose apps to browse and manage files on a WebDAV server*
 
+- [Cyberduck](https://cyberduck.io/) - libre server and cloud storage browser with WebDAV support (for Windows and Mac)
+- [Mountain Duck](https://mountainduck.io/) - lets you mount server and cloud storage including WebDAV as a disk (for Windows and Mac)
 - [FileZilla Pro](https://filezillapro.com/how-to-connect-to-webdav/) - file transfer tool that supports many protocols, including WebDAV (for Windows, Mac and Linux)
 - [WinSCP](https://winscp.net/eng/docs/webdav) - popular SFTP client that also supports WebDAV (for Windows)
 - [davfs2](https://savannah.nongnu.org/projects/davfs2) - allows mounting a WebDAV server as a local filesystem (for Linux)
 
 <a name="desktop-other-apps" />
+
+### Backup and sync
+
+*Apps used for backup and/or synchronizing data between multiple destinations*
+
+- [rclone](https://rclone.org/) - supports WebDAV as a backup target and [can itself act as a WebDAV server](https://rclone.org/commands/rclone_serve_webdav/) (for Windows, Mac and Linux)
+- [Duplicacy](https://duplicacy.com/) - beta support for WebDAV as a backup target (for Windows, Mac and Linux)
+- [Duplicati](https://github.com/duplicati/duplicati) - supports WebDAV as a backup target (for Windows, Mac and Linux)
 
 ### Other apps
 
@@ -127,6 +146,37 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 *General purpose apps to browse and manage files on a WebDAV server*
 
 - [WebDAV Navigator](https://apps.apple.com/gb/app/webdav-navigator/id382551345) - download, share, store and edit files on a WebDAV server
+
+## Libraries
+
+*Libraries for accessing a WebDAV storage and/or building a WebDAV server*
+
+### C
+
+- [neon](https://github.com/notroj/neon) - an HTTP/1.1 and WebDAV client library with a C API
+
+### C++
+
+- [webdav-client-cpp](https://github.com/CloudPolis/webdav-client-cpp) - C++ WebDAV Client
+
+### Go
+
+- [golang.org/x/net/webdav](https://godoc.org/golang.org/x/net/webdav) - WebDAV server implementation as part of the standard library
+- [go-webdav](https://github.com/emersion/go-webdav) - client library for WebDAV, CalDAV and CardDAV
+- [gowebdav](https://github.com/studio-b12/gowebdav) - WebDAV client library and command line tool
+
+### Java
+
+- [Jackrabbit WebDAV Library](https://jackrabbit.apache.org/jcr/components/jackrabbit-webdav-library.html) - WebDAV Library component of the Apache Jackrabbit project
+
+### JavaScript
+
+- [webdav](https://github.com/perry-mitchell/webdav-client) - WebDAV client written in JavaScript for NodeJS and the browser
+- [unifile](https://github.com/silexlabs/unifile) - NodeJS library to access cloud storage which supports WebDAV
+
+### Python
+
+- [webdavclient3](https://pypi.org/project/webdavclient3/) - WebDAV client for Python 3.x
 
 ## Cloud providers
 
