@@ -10,6 +10,8 @@ Ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
+- When linking to something, prefer linking to the specific part of its documentation related to WebDAV.
+  - For example, a web server's page explaining how to enable WebDAV is preferred over that web server's home page.
 - New categories or improvements to the existing categorization are welcome.
   - If you have an app or tool that doesn't fit any category, that likely means we need a new category! Feel free to add it in the same PR.
   - Similarly, if the category is starting to feel too broad, that likely means we need to split it up!
