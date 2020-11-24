@@ -197,6 +197,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 *Cloud services that offer a WebDAV server or otherwise allow access via WebDAV*
 
+- [4shared](https://www.4shared.com/web/helpCenter/fGeDNHCrXce#par_eight) fully supports WebDAV and allows synchronization over it
 - [Nextcloud](https://docs.nextcloud.com/server/latest/user_manual/en/files/access_webdav.html) fully supports WebDAV and allows synchronization over it
 - [ownCloud](https://doc.owncloud.org/server/latest/user_manual/files/access_webdav.html) fully supports WebDAV and allows synchronization over it
 - [Yandex.Disk](https://yandex.com/dev/disk/webdav/) has a WebDAV API that treats its storage like a file system
