@@ -23,6 +23,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
     - [Other apps](#android-other-apps)
   - [iOS](#ios)
     - [File managers](#ios-file-managers)
+    - [Other apps](#ios-other-apps)
 - [Libraries](#libraries)
   - [C](#c)
   - [C++](#c-1)
@@ -135,7 +136,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 *Apps that support WebDAV in some form, e.g. for backup and sync*
 
 - [Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin) - note taking and to-do application that supports WebDAV sync
-- [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - password manager that supports WebDAV sync
+- [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - KeePass-based password manager that supports WebDAV sync
 
 ### iOS
 
@@ -145,7 +146,21 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 *General purpose apps to browse and manage files on a WebDAV server*
 
-- [WebDAV Navigator](https://apps.apple.com/gb/app/webdav-navigator/id382551345) - download, share, store and edit files on a WebDAV server
+- [WebDAV Nav+](https://apps.apple.com/app/webdav-nav/id412341302) - download, share, store and edit files on a WebDAV server
+- [WebDAV Navigator](https://apps.apple.com/app/webdav-navigator/id382551345) - download, share, store and edit files on a WebDAV server
+
+<a name="ios-other-apps" />
+
+#### Other apps
+
+*Apps that support WebDAV in some form, e.g. for backup and sync*
+
+- [1Writer](https://apps.apple.com/app/1writer-markdown-text-editor/id680469088) - markdown text editor that supports importing from WebDAV
+- [beorg](https://apps.apple.com/app/beorg-to-do-list-agenda/id1238649962) - to-do list and agenda app with WebDAV sync support
+- [GoodReader](https://apps.apple.com/app/goodreader-pdf-editor-viewer/id777310222) - PDF viewer and editor that supports WebDAV sync
+- [Joplin](https://apps.apple.com/app/joplin/id1315599797) - note taking and to-do application that supports WebDAV sync
+- [Notebooks 10](https://apps.apple.com/app/notebooks-write-and-organize/id1490084838) - writing app, a text and markdown editor with WebDAV support
+- [Strongbox](https://apps.apple.com/app/strongbox-password-safe/id897283731) - KeePass-based password manager that supports WebDAV sync
 
 ## Libraries
 
