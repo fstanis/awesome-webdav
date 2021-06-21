@@ -5,6 +5,7 @@
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](contributing.md)!
 
 ## Table of Contents
+
 - [Resources](#resources)
   - [General](#general)
   - [Client guides](#client-guides)
@@ -38,14 +39,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### General
 
-*General information about WebDAV*
+_General information about WebDAV_
 
 - [Wikipedia article](https://en.wikipedia.org/wiki/WebDAV)
 - [DAV Frequently Asked Questions](http://www.webdav.org/other/faq.html)
 
 ### Client guides
 
-*Mounting a WebDAV volume if you have an existing server*
+_Mounting a WebDAV volume if you have an existing server_
 
 - [Connect to or disconnect from a WebDAV server on Mac](https://support.apple.com/en-au/guide/mac-help/mchlp1546/mac)
 - [Accessing WebDAV with Windows](https://help.dreamhost.com/hc/en-us/articles/216473357-Accessing-WebDAV-with-Windows)
@@ -53,7 +54,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Server guides
 
-*Setting up a WebDAV server*
+_Setting up a WebDAV server_
 
 - [How To Configure WebDAV Access with Apache on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-configure-webdav-access-with-apache-on-ubuntu-14-04)
 - [Run your own WebDAV server with Docker](https://docs.bytemark.co.uk/article/run-your-own-webdav-server-with-docker/)
@@ -62,25 +63,25 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Standalone
 
-*Standalone servers specifically built for WebDAV and its extensions*
+_Standalone servers specifically built for WebDAV and its extensions_
 
 - [sabre/dav](https://sabre.io/) - open source CardDAV, CalDAV and WebDAV server
 - [SFTPGo](https://github.com/drakkan/sftpgo) - SFTP server with optional FTP/S and WebDAV support
 
 ### Web servers
 
-*Web servers that support WebDAV or have modules to enable WebDAV support*
+_Web servers that support WebDAV or have modules to enable WebDAV support_
 
 - [Apache HTTP Server](https://httpd.apache.org/docs/2.4/mod/mod_dav.html) supports WebDAV via the `mod_dav` module
 - [Caddy](https://caddyserver.com/docs/modules/http.handlers.webdav) supports WebDAV via the `http.handlers.webdav` module
 - [lighttpd](https://redmine.lighttpd.net/projects/1/wiki/Docs_ModWebDAV) supports WebDAV via the `mod_webdav` module
-- [Microsoft Internet Information Services (IIS)](https://docs.microsoft.com/en-us/iis/configuration/system.webServer/webdav/) supports WebDAV starting with version 7.0 when *WebDAV Publishing* is enabled
+- [Microsoft Internet Information Services (IIS)](https://docs.microsoft.com/en-us/iis/configuration/system.webServer/webdav/) supports WebDAV starting with version 7.0 when _WebDAV Publishing_ is enabled
 - [nginx](https://nginx.org/en/docs/http/ngx_http_dav_module.html) supports a subset of WebDAV methods via the `ngx_http_dav_module` module
   - [`nginx-dav-ext-module`](https://github.com/arut/nginx-dav-ext-module) is an unofficial module that adds full WebDAV support
 
 ### Docker images
 
-*Docker images for easily deploying a WebDAV server*
+_Docker images for easily deploying a WebDAV server_
 
 - [bytemark/webdav](https://hub.docker.com/r/bytemark/webdav) - based on Apache HTTP Server
 - [ugeek/webdav](https://hub.docker.com/r/ugeek/webdav) - based on nginx
@@ -91,7 +92,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### File managers and tools
 
-*General purpose apps to browse and manage files on a WebDAV server*
+_General purpose apps to browse and manage files on a WebDAV server_
 
 - [Cyberduck](https://cyberduck.io/) - libre server and cloud storage browser with WebDAV support (for Windows and Mac)
 - [Mountain Duck](https://mountainduck.io/) - lets you mount server and cloud storage including WebDAV as a disk (for Windows and Mac)
@@ -103,7 +104,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Backup and sync
 
-*Apps used for backup and/or synchronizing data between multiple destinations*
+_Apps used for backup and/or synchronizing data between multiple destinations_
 
 - [rclone](https://rclone.org/) - supports WebDAV as a backup target and [can itself act as a WebDAV server](https://rclone.org/commands/rclone_serve_webdav/) (for Windows, Mac and Linux)
 - [Duplicacy](https://duplicacy.com/) - beta support for WebDAV as a backup target (for Windows, Mac and Linux)
@@ -111,7 +112,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Other apps
 
-*Apps and browser extensions that support WebDAV in some form, e.g. for backup and sync*
+_Apps and browser extensions that support WebDAV in some form, e.g. for backup and sync_
 
 - [KeePass Password Safe](https://keepass.info/) - password manager that supports WebDAV sync (for Windows)
 - [floccus](https://floccus.org/) - browser extension for bookmark sync that supports WebDAV (for Chrome, Firefox and Edge)
@@ -124,7 +125,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 #### File managers
 
-*General purpose apps to browse and manage files on a WebDAV server*
+_General purpose apps to browse and manage files on a WebDAV server_
 
 - [WebDAV Navigator](https://play.google.com/store/apps/details?id=com.schimera.webdavnav) - WebDAV client for Android devices
 - [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander) - file manager that has a WebDAV plugin
@@ -133,7 +134,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 #### Other apps
 
-*Apps that support WebDAV in some form, e.g. for backup and sync*
+_Apps that support WebDAV in some form, e.g. for backup and sync_
 
 - [Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin) - note taking and to-do application that supports WebDAV sync
 - [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - KeePass-based password manager that supports WebDAV sync
@@ -144,7 +145,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 #### File managers
 
-*General purpose apps to browse and manage files on a WebDAV server*
+_General purpose apps to browse and manage files on a WebDAV server_
 
 - [WebDAV Nav+](https://apps.apple.com/app/webdav-nav/id412341302) - download, share, store and edit files on a WebDAV server
 - [WebDAV Navigator](https://apps.apple.com/app/webdav-navigator/id382551345) - download, share, store and edit files on a WebDAV server
@@ -153,7 +154,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 #### Other apps
 
-*Apps that support WebDAV in some form, e.g. for backup and sync*
+_Apps that support WebDAV in some form, e.g. for backup and sync_
 
 - [1Writer](https://apps.apple.com/app/1writer-markdown-text-editor/id680469088) - markdown text editor that supports importing from WebDAV
 - [beorg](https://apps.apple.com/app/beorg-to-do-list-agenda/id1238649962) - to-do list and agenda app with WebDAV sync support
@@ -161,10 +162,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 - [Joplin](https://apps.apple.com/app/joplin/id1315599797) - note taking and to-do application that supports WebDAV sync
 - [Notebooks 10](https://apps.apple.com/app/notebooks-write-and-organize/id1490084838) - writing app, a text and markdown editor with WebDAV support
 - [Strongbox](https://apps.apple.com/app/strongbox-password-safe/id897283731) - KeePass-based password manager that supports WebDAV sync
+- [Notability](https://apps.apple.com/us/app/notability/id360593530) - Note-taking app that supports webDAV for backups
 
 ## Libraries
 
-*Libraries for accessing a WebDAV storage and/or building a WebDAV server*
+_Libraries for accessing a WebDAV storage and/or building a WebDAV server_
 
 ### C
 
@@ -195,7 +197,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ## Cloud providers
 
-*Cloud services that offer a WebDAV server or otherwise allow access via WebDAV*
+_Cloud services that offer a WebDAV server or otherwise allow access via WebDAV_
 
 - [4shared](https://www.4shared.com/web/helpCenter/fGeDNHCrXce#par_eight) fully supports WebDAV and allows synchronization over it
 - [Nextcloud](https://docs.nextcloud.com/server/latest/user_manual/en/files/access_webdav.html) fully supports WebDAV and allows synchronization over it
@@ -205,7 +207,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ## Extensions
 
-*Protocol extensions and related protocols*
+_Protocol extensions and related protocols_
 
 - [CalDAV](https://en.wikipedia.org/wiki/CalDAV)
 - [CardDAV](https://en.wikipedia.org/wiki/CardDAV)
