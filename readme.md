@@ -162,7 +162,7 @@ _Apps that support WebDAV in some form, e.g. for backup and sync_
 - [Joplin](https://apps.apple.com/app/joplin/id1315599797) - note taking and to-do application that supports WebDAV sync
 - [Notebooks 10](https://apps.apple.com/app/notebooks-write-and-organize/id1490084838) - writing app, a text and markdown editor with WebDAV support
 - [Strongbox](https://apps.apple.com/app/strongbox-password-safe/id897283731) - KeePass-based password manager that supports WebDAV sync
-- [Notability](https://apps.apple.com/us/app/notability/id360593530) - Note-taking app that supports webDAV for backups
+- [Notability](https://apps.apple.com/app/notability/id360593530) - Note-taking app that supports webDAV for backups
 
 ## Libraries
 
