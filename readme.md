@@ -116,6 +116,7 @@ _Apps and browser extensions that support WebDAV in some form, e.g. for backup a
 
 - [KeePass Password Safe](https://keepass.info/) - password manager that supports WebDAV sync (for Windows)
 - [floccus](https://floccus.org/) - browser extension for bookmark sync that supports WebDAV (for Chrome, Firefox and Edge)
+- [Violentmonkey](https://violentmonkey.github.io/) – a web browser extension for UserJS management that can sync with WebDAV.
 
 ## Mobile apps
 
