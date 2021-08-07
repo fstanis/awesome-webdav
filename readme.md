@@ -65,6 +65,7 @@ _Setting up a WebDAV server_
 
 _Standalone servers specifically built for WebDAV and its extensions_
 
+- [phởdav](https://wiki.gnome.org/phodav) (a.k.a. chezdav) – a minimal open source WebDAV server. Ideal for sharing one folder (for FreeBSD, Linux, and Windows.)
 - [sabre/dav](https://sabre.io/) - open source CardDAV, CalDAV and WebDAV server
 - [SFTPGo](https://github.com/drakkan/sftpgo) - SFTP server with optional FTP/S and WebDAV support
 
