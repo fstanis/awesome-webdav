@@ -65,7 +65,8 @@ _Setting up a WebDAV server_
 
 _Standalone servers specifically built for WebDAV and its extensions_
 
-- [hacdias-webdav](https://github.com/hacdias/webdav) – A simple yet configurable WebDAV server written in Go
+- [phởdav](https://wiki.gnome.org/phodav) (a.k.a. chezdav) – a minimal open source WebDAV server, ideal for sharing one folder (for FreeBSD, Linux, and Windows)
+- [hacdias-webdav](https://github.com/hacdias/webdav) – a simple yet configurable WebDAV server written in Go
 - [sabre/dav](https://sabre.io/) - open source CardDAV, CalDAV and WebDAV server
 - [SFTPGo](https://github.com/drakkan/sftpgo) - SFTP server with optional FTP/S and WebDAV support
 
