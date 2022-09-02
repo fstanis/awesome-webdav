@@ -132,6 +132,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 
 - [WebDAV Navigator](https://play.google.com/store/apps/details?id=com.schimera.webdavnav) - WebDAV client for Android devices
 - [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander) - file manager that has a WebDAV plugin
+- [X-plore File Manager](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) - file manager supporting WebDAV mounts
 
 <a name="android-other-apps" />
 
