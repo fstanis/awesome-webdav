@@ -101,6 +101,8 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [FileZilla Pro](https://filezillapro.com/how-to-connect-to-webdav/) - file transfer tool that supports many protocols, including WebDAV (for Windows, Mac and Linux)
 - [WinSCP](https://winscp.net/eng/docs/webdav) - popular SFTP client that also supports WebDAV (for Windows)
 - [davfs2](https://savannah.nongnu.org/projects/davfs2) - allows mounting a WebDAV server as a local filesystem (for Linux)
+- [CrossFTP](https://www.crossftp.com/) - free client software that supports many protocols, including WebDAV (for Windows, Mac and Linux)
+- [FileZilla Pro](https://filezillapro.com/) - paid version of the popular FTP client includes WebDAV support (for Windows, Mac and Linux)
 
 <a name="desktop-other-apps" />
 
@@ -133,6 +135,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [WebDAV Navigator](https://play.google.com/store/apps/details?id=com.schimera.webdavnav) - WebDAV client for Android devices
 - [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander) - file manager that has a WebDAV plugin
 - [X-plore File Manager](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) - file manager supporting WebDAV mounts
+- [MiXplorer](https://forum.xda-developers.com/showpost.php?p=23109280&postcount=2) - file manager that supports WebDAV
 
 <a name="android-other-apps" />
 
