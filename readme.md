@@ -137,6 +137,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 
 _Apps that support WebDAV in some form, e.g. for backup and sync_
 
+- [DAVx⁵](https://play.google.com/store/apps/details?id=at.bitfire.davdroid) - App to sync contacts, tasks and calendars with the android system from a WebDAV server.
 - [Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin) - Note taking and to-do application that supports WebDAV sync.
 - [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - KeePass-based password manager that supports WebDAV sync.
 
