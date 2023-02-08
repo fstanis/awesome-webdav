@@ -63,6 +63,7 @@ _Standalone servers specifically built for WebDAV and its extensions_
 - [hacdias-webdav](https://github.com/hacdias/webdav) - A simple yet configurable WebDAV server written in Go.
 - [sabre/dav](https://sabre.io/) - Open source CardDAV, CalDAV and WebDAV server.
 - [SFTPGo](https://github.com/drakkan/sftpgo) - SFTP server with optional FTP/S and WebDAV support.
+- [WebDAV VFS gate](https://github.com/a-langer/webdav-vfs-gate) - Open source JEE application for web containers, such as Tomcat, Jetty, JBoss and similar.
 
 ### Web servers
 
