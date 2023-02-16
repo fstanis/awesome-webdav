@@ -52,6 +52,7 @@ _Setting up a WebDAV server_
 
 - [How To Configure WebDAV Access with Apache on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-configure-webdav-access-with-apache-on-ubuntu-14-04)
 - [Run your own WebDAV server with Docker](https://docs.bytemark.co.uk/article/run-your-own-webdav-server-with-docker/)
+- [WebDAV Share with Lighttpd](https://openwrt.org/docs/guide-user/services/nas/webdav) - instruction for OpenWrt WiFi routers firmware.
 
 ## Servers
 
@@ -82,6 +83,19 @@ _Docker images for easily deploying a WebDAV server_
 - [bytemark/webdav](https://hub.docker.com/r/bytemark/webdav) - Based on Apache HTTP Server.
 - [ugeek/webdav](https://hub.docker.com/r/ugeek/webdav) - Based on nginx.
 
+
+<a name="pwa" />
+
+## PWA and online apps
+You can also try an online apps that can connect directly to your WebDAV share. You'll need a CORS enabled.
+See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito/0a6274106d407ba6d9fb776e7773445d)
+
+- [Diffuse](https://diffuse.sh/) - A music player [Source code](https://github.com/icidasset/diffuse).
+- [Supper Productivity](https://app.super-productivity.com/) - A powerful TODO App. [Source code](https://github.com/johannesjo/super-productivity).
+- [KeeWeb](https://app.keeweb.info/) - A password manager.
+- [webdave](https://katomaso.github.io/webdave/) - A file manager.
+- [webdav-js](https://github.com/dom111/webdav-js) - A simple WebDAV file manager for use as a bookmarklet, or integration into a web server. May be used as a simplest in-browser UI.
+
 ## Desktop apps
 
 <a name="desktop-file-managers" />
@@ -92,11 +106,15 @@ _General purpose apps to browse and manage files on a WebDAV server_
 
 - [Cyberduck](https://cyberduck.io/) - Libre server and cloud storage browser with WebDAV support (for Windows and Mac).
 - [Mountain Duck](https://mountainduck.io/) - Lets you mount server and cloud storage including WebDAV as a disk (for Windows and Mac).
+- [Far Manager](https://www.farmanager.com/) - A Norton Comander like file manager. Has a NetBox plugin with WebDAV support. (for Windows)/
 - [FileZilla Pro](https://filezillapro.com/how-to-connect-to-webdav/) - File transfer tool that supports many protocols, including WebDAV (for Windows, Mac and Linux).
 - [WinSCP](https://winscp.net/eng/docs/webdav) - Popular SFTP client that also supports WebDAV (for Windows).
 - [davfs2](https://savannah.nongnu.org/projects/davfs2) - Allows mounting a WebDAV server as a local filesystem (for Linux).
+- [GNOME gvfs-mount](https://jeromebelleman.gitlab.io/posts/filesystems/gvfs/#from-a-webdav-server) - Mounting a WebDAV with GNOME Virtual Filesystem.
 - [CrossFTP](https://www.crossftp.com/) - Free client software that supports many protocols, including WebDAV (for Windows, Mac and Linux).
 - [FileZilla Pro](https://filezillapro.com/) - Paid version of the popular FTP client includes WebDAV support (for Windows, Mac and Linux).
+- [cadaver](https://notroj.github.io/cadaver/) - A command-line WebDAV client.
+- [WebDAV with curl](https://code.blogs.iiidefix.net/posts/webdav-with-curl/).
 
 <a name="desktop-other-apps" />
 
@@ -107,6 +125,7 @@ _Apps used for backup and/or synchronizing data between multiple destinations_
 - [rclone](https://rclone.org/) - Supports WebDAV as a backup target and [can itself act as a WebDAV server](https://rclone.org/commands/rclone_serve_webdav/) (for Windows, Mac and Linux).
 - [Duplicacy](https://duplicacy.com/) - Beta support for WebDAV as a backup target (for Windows, Mac and Linux).
 - [Duplicati](https://github.com/duplicati/duplicati) - Supports WebDAV as a backup target (for Windows, Mac and Linux).
+- [GNOME Déjà Dup](https://wiki.gnome.org/Apps/DejaDup) - Supports WebDAV as a backup target.
 
 ### Other apps
 
@@ -164,6 +183,9 @@ _Apps that support WebDAV in some form, e.g. for backup and sync_
 - [Notebooks 10](https://apps.apple.com/app/notebooks-write-and-organize/id1490084838) - Writing app, a text and markdown editor with WebDAV support.
 - [Strongbox](https://apps.apple.com/app/strongbox-password-safe/id897283731) - KeePass-based password manager that supports WebDAV sync.
 - [Notability](https://apps.apple.com/app/notability/id360593530) - Note-taking app that supports webDAV for backups.
+- [Orgzly](https://www.orgzly.com/) - Outliner for notes and to-do lists. [Source code](https://github.com/orgzly).
+- [CloudBeats](https://www.cloudbeatsapp.com/) - A music player. Not FOSS!
+
 
 ## Libraries
 
