@@ -93,6 +93,7 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 
 - [Diffuse](https://diffuse.sh/) - A music player [Source code](https://github.com/icidasset/diffuse).
 - [Supper Productivity](https://app.super-productivity.com/) - A powerful TODO App. [Source code](https://github.com/johannesjo/super-productivity).
+- [TiddlyWiki](https://tiddlywiki.com/) - A non-linear notebook for capturing, organising and sharing complex information
 - [KeeWeb](https://app.keeweb.info/) - A password manager [Source code](https://github.com/keeweb/keeweb).
 - [webdave](https://katomaso.github.io/webdave/) - A file manager.
 - [webdav-js](https://github.com/dom111/webdav-js) - A simple WebDAV file manager for use as a bookmarklet, or integration into a web server. May be used as a simplest in-browser UI.
