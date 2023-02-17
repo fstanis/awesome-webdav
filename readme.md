@@ -159,6 +159,8 @@ _Apps that support WebDAV in some form, e.g. for backup and sync_
 
 - [Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin) - Note taking and to-do application that supports WebDAV sync.
 - [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - KeePass-based password manager that supports WebDAV sync.
+- [Orgzly](https://www.orgzly.com/) - Outliner for notes and to-do lists. [Source code](https://github.com/orgzly).
+- [CloudBeats](https://www.cloudbeatsapp.com/) - A music player. Not FOSS!
 
 ### iOS
 
@@ -184,8 +186,6 @@ _Apps that support WebDAV in some form, e.g. for backup and sync_
 - [Notebooks 10](https://apps.apple.com/app/notebooks-write-and-organize/id1490084838) - Writing app, a text and markdown editor with WebDAV support.
 - [Strongbox](https://apps.apple.com/app/strongbox-password-safe/id897283731) - KeePass-based password manager that supports WebDAV sync.
 - [Notability](https://apps.apple.com/app/notability/id360593530) - Note-taking app that supports webDAV for backups.
-- [Orgzly](https://www.orgzly.com/) - Outliner for notes and to-do lists. [Source code](https://github.com/orgzly).
-- [CloudBeats](https://www.cloudbeatsapp.com/) - A music player. Not FOSS!
 
 
 ## Libraries
