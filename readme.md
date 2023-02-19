@@ -108,14 +108,15 @@ _General purpose apps to browse and manage files on a WebDAV server_
 
 - [Cyberduck](https://cyberduck.io/) - Libre server and cloud storage browser with WebDAV support (for Windows and Mac).
 - [Mountain Duck](https://mountainduck.io/) - Lets you mount server and cloud storage including WebDAV as a disk (for Windows and Mac).
-- [Far Manager](https://www.farmanager.com/) - A Norton Comander like file manager. Has a NetBox plugin with WebDAV support. (for Windows)/
+- [Far Manager](https://www.farmanager.com/) - A Norton Comander like file manager for Windows. Has a NetBox plugin with WebDAV support.
+- [far2l](https://github.com/elfmz/far2l) - A heavily rewritten Linux and MacOS port of FAR Manager. Has a NetRocks plugin with WebDAV support. 
 - [FileZilla Pro](https://filezillapro.com/how-to-connect-to-webdav/) - File transfer tool that supports many protocols, including WebDAV (for Windows, Mac and Linux).
 - [WinSCP](https://winscp.net/eng/docs/webdav) - Popular SFTP client that also supports WebDAV (for Windows).
 - [davfs2](https://savannah.nongnu.org/projects/davfs2) - Allows mounting a WebDAV server as a local filesystem (for Linux).
 - [GNOME gvfs-mount](https://jeromebelleman.gitlab.io/posts/filesystems/gvfs/#from-a-webdav-server) - Mounting a WebDAV with GNOME Virtual Filesystem.
 - [CrossFTP](https://www.crossftp.com/) - Free client software that supports many protocols, including WebDAV (for Windows, Mac and Linux).
 - [FileZilla Pro](https://filezillapro.com/) - Paid version of the popular FTP client includes WebDAV support (for Windows, Mac and Linux).
-- [cadaver](https://notroj.github.io/cadaver/) - A command-line WebDAV client.
+- [cadaver](https://notroj.github.io/cadaver/) - A command-line interactive FTP-like WebDAV client.
 - [WebDAV with curl](https://code.blogs.iiidefix.net/posts/webdav-with-curl/).
 
 <a name="desktop-other-apps" />
