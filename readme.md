@@ -38,6 +38,7 @@ _General information about WebDAV_
 
 - [Wikipedia article](https://en.wikipedia.org/wiki/WebDAV)
 - [DAV Frequently Asked Questions](http://www.webdav.org/other/faq.html)
+- [Exploiting WebDAV](https://vk9-sec.com/exploiting-webdav/)
 
 ### Client guides
 
@@ -91,6 +92,8 @@ _Docker images for easily deploying a WebDAV server_
 You can also try an online apps that can connect directly to your WebDAV share. You'll need a CORS enabled.
 See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito/0a6274106d407ba6d9fb776e7773445d)
 
+- [Buttercup](https://buttercup.pw/) - A password manager. [Source code](https://github.com/buttercup)
+- [DevNotes](https://rainu.github.io/dev-notes/) - A notes app. [Source code](https://github.com/rainu/dev-notes)
 - [Diffuse](https://diffuse.sh/) - A music player [Source code](https://github.com/icidasset/diffuse).
 - [Supper Productivity](https://app.super-productivity.com/) - A powerful TODO App. [Source code](https://github.com/johannesjo/super-productivity).
 - [TiddlyWiki](https://tiddlywiki.com/) - A non-linear notebook for capturing, organising and sharing complex information
