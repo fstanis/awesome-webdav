@@ -89,10 +89,9 @@ _Docker images for easily deploying a WebDAV server_
 <a name="pwa" />
 
 ## PWA and online apps
-You can also try an online apps that can connect directly to your WebDAV share. You'll need a CORS enabled.
+Online apps that can connect directly to your WebDAV share. You'll need a CORS enabled.
 See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito/0a6274106d407ba6d9fb776e7773445d)
 
-- [Buttercup](https://buttercup.pw/) - A password manager. [Source code](https://github.com/buttercup)
 - [DevNotes](https://rainu.github.io/dev-notes/) - A notes app. [Source code](https://github.com/rainu/dev-notes)
 - [Diffuse](https://diffuse.sh/) - A music player [Source code](https://github.com/icidasset/diffuse).
 - [Supper Productivity](https://app.super-productivity.com/) - A powerful TODO App. [Source code](https://github.com/johannesjo/super-productivity).
@@ -137,6 +136,8 @@ _Apps used for backup and/or synchronizing data between multiple destinations_
 
 _Apps and browser extensions that support WebDAV in some form, e.g. for backup and sync_
 
+- [Buttercup](https://buttercup.pw/) - A password manager. [Source code](https://github.com/buttercup)
+- [KODI](https://kodi.tv/) - An advanced media player for smart TV (Android, tvOS) but also for iOS, Linux, Raspberry Pi, Windows, macOS.
 - [KeePass Password Safe](https://keepass.info/) - Password manager that supports WebDAV sync (for Windows).
 - [floccus](https://floccus.org/) - Browser extension for bookmark sync that supports WebDAV (for Chrome, Firefox and Edge).
 - [Violentmonkey](https://violentmonkey.github.io/) - A web browser extension for UserJS management that can sync with WebDAV.
