@@ -65,6 +65,7 @@ _Standalone servers and personal cloud solutions specifically built for WebDAV a
 - [phởdav (a.k.a. chezdav)](https://wiki.gnome.org/phodav) - A minimal open source WebDAV server, ideal for sharing one folder (for FreeBSD, Linux, and Windows).
 - [hacdias-webdav](https://github.com/hacdias/webdav) - A simple yet configurable WebDAV server written in Go.
 - [sabre/dav](https://sabre.io/) - Open source CardDAV, CalDAV and WebDAV server.
+- [Seafile](https://github.com/haiwen/seafdav) - A webdav server written in Python
 - [SFTPGo](https://github.com/drakkan/sftpgo) - SFTP server with optional FTP/S and WebDAV support.
 - [Nextcloud](https://docs.nextcloud.com/server/latest/user_manual/en/files/access_webdav.html) - Personal cloud solution.
 - [ownCloud](https://doc.owncloud.org/server/latest/user_manual/files/access_webdav.html) - Personal cloud solution.
