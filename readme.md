@@ -112,13 +112,14 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 _General purpose apps to browse and manage files on a WebDAV server_
 
 - [cadaver](https://notroj.github.io/cadaver/) - A command-line interactive FTP-like WebDAV client.
-- [curl](https://code.blogs.iiidefix.net/posts/webdav-with-curl/).
+- [curl](https://code.blogs.iiidefix.net/posts/webdav-with-curl/) - A low level command line http client that allows to query WebDAV methods.
 - [CrossFTP](https://www.crossftp.com/) - Free client software that supports many protocols, including WebDAV (for Windows, Mac and Linux).
 - [davfs2](https://savannah.nongnu.org/projects/davfs2) - Allows mounting a WebDAV server as a local filesystem (for Linux).
 - [Far Manager](https://www.farmanager.com/) - A Norton Comander like file manager for Windows. Has a NetBox plugin with WebDAV support.
 - [far2l](https://github.com/elfmz/far2l) - A heavily rewritten Linux and MacOS port of FAR Manager. Has a NetRocks plugin with WebDAV support. 
 - [FileZilla Pro](https://filezillapro.com/how-to-connect-to-webdav/) - File transfer tool that supports many protocols, including WebDAV (for Windows, Mac and Linux).
 - [GNOME gvfs-mount](https://jeromebelleman.gitlab.io/posts/filesystems/gvfs/#from-a-webdav-server) - Mounting a WebDAV with GNOME Virtual Filesystem.
+- []
 - [WinSCP](https://winscp.net/) - Popular SFTP client that also supports WebDAV (for Windows).
 
 #### macOS only
