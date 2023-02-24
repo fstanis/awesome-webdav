@@ -115,12 +115,14 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [curl](https://code.blogs.iiidefix.net/posts/webdav-with-curl/) - A low level command line http client that allows to query WebDAV methods.
 - [CrossFTP](https://www.crossftp.com/) - Free client software that supports many protocols, including WebDAV (for Windows, Mac and Linux).
 - [davfs2](https://savannah.nongnu.org/projects/davfs2) - Allows mounting a WebDAV server as a local filesystem (for Linux).
+- [DaviX](https://davix.web.cern.ch/davix/docs/devel/) - A client for WebDAV and Amazon S3 for Windows, macOS and Linux. `LGPL` `C++`
 - [Far Manager](https://www.farmanager.com/) - A Norton Comander like file manager for Windows. Has a NetBox plugin with WebDAV support.
-- [far2l](https://github.com/elfmz/far2l) - A heavily rewritten Linux and MacOS port of FAR Manager. Has a NetRocks plugin with WebDAV support. 
+- [far2l](https://github.com/elfmz/far2l) - A heavily rewritten Linux and MacOS port of FAR Manager. Has a NetRocks plugin with WebDAV support.
 - [FileZilla Pro](https://filezillapro.com/how-to-connect-to-webdav/) - File transfer tool that supports many protocols, including WebDAV (for Windows, Mac and Linux).
-- [GNOME gvfs-mount](https://jeromebelleman.gitlab.io/posts/filesystems/gvfs/#from-a-webdav-server) - Mounting a WebDAV with GNOME Virtual Filesystem.
-- []
-- [WinSCP](https://winscp.net/) - Popular SFTP client that also supports WebDAV (for Windows).
+- [GNOME gvfs-mount](https://jeromebelleman.gitlab.io/posts/filesystems/gvfs/#from-a-webdav-server) - Mounting a WebDAV with GNOME Virtual Filesystem in user space. Linux.
+- [SmartFTP](https://www.smartftp.com/) - A file transfer program. `Proprietary`
+- [WinSCP](https://winscp.net/) - A popular SFTP client that also supports WebDAV (for Windows). `Proprietary`
+- [WebDrive](https://webdrive.com/) - A drive mapping utility. Windows, OS X, Android and iOS. `Proprietary`
 
 #### macOS only
 - [Commander One](https://mac.eltima.com/file-manager.html) - A file manager for macOS
