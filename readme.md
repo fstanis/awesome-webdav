@@ -58,14 +58,16 @@ _Setting up a WebDAV server_
 
 ## Servers
 
-### Standalone
+### Standalone 
 
-_Standalone servers specifically built for WebDAV and its extensions_
+_Standalone servers and personal cloud solutions specifically built for WebDAV and its extensions_
 
 - [phởdav (a.k.a. chezdav)](https://wiki.gnome.org/phodav) - A minimal open source WebDAV server, ideal for sharing one folder (for FreeBSD, Linux, and Windows).
 - [hacdias-webdav](https://github.com/hacdias/webdav) - A simple yet configurable WebDAV server written in Go.
 - [sabre/dav](https://sabre.io/) - Open source CardDAV, CalDAV and WebDAV server.
 - [SFTPGo](https://github.com/drakkan/sftpgo) - SFTP server with optional FTP/S and WebDAV support.
+- [Nextcloud](https://docs.nextcloud.com/server/latest/user_manual/en/files/access_webdav.html) - Personal cloud solution.
+- [ownCloud](https://doc.owncloud.org/server/latest/user_manual/files/access_webdav.html) - Personal cloud solution.
 
 ### Web servers
 
@@ -142,7 +144,7 @@ _Apps used for backup and/or synchronizing data between multiple destinations_
 _Apps and browser extensions that support WebDAV in some form, e.g. for backup and sync_
 
 - [Buttercup](https://buttercup.pw/) - A password manager. [Source code](https://github.com/buttercup)
-- [KODI](https://kodi.tv/) - An advanced media player for smart TV (Android, tvOS) but also for iOS, Linux, Raspberry Pi, Windows, macOS.
+- [KODI](https://kodi.tv/) - An advanced media player for smart TV (Raspberry Pi, Android, tvOS) but also for iOS, Linux, , Windows, macOS.
 - [KeePass Password Safe](https://keepass.info/) - Password manager that supports WebDAV sync (for Windows).
 - [floccus](https://floccus.org/) - Browser extension for bookmark sync that supports WebDAV (for Chrome, Firefox and Edge).
 - [Violentmonkey](https://violentmonkey.github.io/) - A web browser extension for UserJS management that can sync with WebDAV.
@@ -235,8 +237,7 @@ _Libraries for accessing a WebDAV storage and/or building a WebDAV server_
 _Cloud services that offer a WebDAV server or otherwise allow access via WebDAV_
 
 - [4shared](https://www.4shared.com/web/helpCenter/fGeDNHCrXce#par_eight) - Fully supports WebDAV and allows synchronization over it.
-- [Nextcloud](https://docs.nextcloud.com/server/latest/user_manual/en/files/access_webdav.html) - Fully supports WebDAV and allows synchronization over it.
-- [ownCloud](https://doc.owncloud.org/server/latest/user_manual/files/access_webdav.html) - Fully supports WebDAV and allows synchronization over it.
+- [OpenDrive](https://www.opendrive.com/)
 - [Yandex.Disk](https://yandex.com/dev/disk/webdav/) - Has a WebDAV API that treats its storage like a file system.
 - [~Box~](https://support.box.com/hc/en-us/articles/360043696414-WebDAV-with-Box) - Has a WebDAV URL that allows access via WebDAV (no longer supported).
 
