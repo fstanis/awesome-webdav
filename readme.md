@@ -62,7 +62,6 @@ _Setting up a WebDAV server_
 
 _Standalone servers and personal cloud solutions specifically built for WebDAV and its extensions_
 
-https://sabre.io/baikal/
 - [phởdav (a.k.a. chezdav)](https://wiki.gnome.org/phodav) - A minimal open source WebDAV server, ideal for sharing one folder (for FreeBSD, Linux, and Windows).
 - [hacdias-webdav](https://github.com/hacdias/webdav) - A simple yet configurable WebDAV server written in Go.
 - [sabre/dav](https://sabre.io/) - Open source CardDAV, CalDAV and WebDAV server.
