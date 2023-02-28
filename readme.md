@@ -243,10 +243,10 @@ _Libraries for accessing a WebDAV storage and/or building a WebDAV server_
 _Cloud services that offer a WebDAV server or otherwise allow access via WebDAV_
 
 - [1und1.de](https://www.1und1.de/) - a hosting and cloud (HiDrive). Based in Germany.
-- [4shared](https://www.4shared.com/web/helpCenter/fGeDNHCrXce#par_eight) - Fully supports WebDAV and allows synchronization over it.
+- [4shared](https://www.4shared.com/web/helpCenter/fGeDNHCrXce#par_eight) - Fully supports WebDAV and allows synchronization over it. Based in Ukraine.
 - [EDIS](https://www.edis.at/) - a (web) server and infrastructure hoster. Based in Austria.
 - [IceDrive](https://icedrive.net/) - a cloud. Based in UK.
-- [infomaniak](https://www.infomaniak.com/] - The Ethical Cloud and colaboration service. Based in Switzerland.
+- [infomaniak](https://www.infomaniak.com/) - The Ethical Cloud and colaboration service. Based in Switzerland.
 - [IONOS](https://www.ionos.com/) - a hosting and cloud (HiDrive). Based in US.
 - [FastMail](https://www.fastmail.help/hc/en-us/articles/1500000277882-Remote-file-access) - an Email service with WebDAV access to files. Based in Australia.
 - [GM Cloud](https://www.gmx.com/cloud/) -  a Web portal with cloud feature. Based in Germany.
