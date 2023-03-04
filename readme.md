@@ -62,6 +62,7 @@ _Setting up a WebDAV server_
 
 _Standalone servers and personal cloud solutions specifically built for WebDAV and its extensions_
 
+- [asgi-webdav](https://github.com/rexzhang/asgi-webdav) -a An asynchronous WebDAV server, Support multi-provider, multi-account and permission control. `MIT` `Python`
 - [phởdav (a.k.a. chezdav)](https://wiki.gnome.org/phodav) - A minimal open source WebDAV server, ideal for sharing one folder (for FreeBSD, Linux, and Windows).
 - [hacdias-webdav](https://github.com/hacdias/webdav) - A simple yet configurable WebDAV server written in Go.
 - [sabre/dav](https://sabre.io/) - Open source CardDAV, CalDAV and WebDAV server.
@@ -99,6 +100,7 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 - [DevNotes](https://rainu.github.io/dev-notes/) - A notes app. [Source code](https://github.com/rainu/dev-notes)
 - [Diffuse](https://diffuse.sh/) - A music player [Source code](https://github.com/icidasset/diffuse).
 - [Supper Productivity](https://app.super-productivity.com/) - A powerful TODO App. [Source code](https://github.com/johannesjo/super-productivity).
+- [OxIDE](https://github.com/bootrino/reactoxide) - a simple code editor that you can add to your ReactJS projects. `MIT` `TypeScript`
 - [TiddlyWiki](https://tiddlywiki.com/) - A non-linear notebook for capturing, organising and sharing complex information
 - [KeeWeb](https://app.keeweb.info/) - A password manager [Source code](https://github.com/keeweb/keeweb).
 - [webdave](https://katomaso.github.io/webdave/) - A file manager.
@@ -143,13 +145,14 @@ _Apps used for backup and/or synchronizing data between multiple destinations_
 - [Duplicacy](https://duplicacy.com/) - Beta support for WebDAV as a backup target (for Windows, Mac and Linux).
 - [Duplicati](https://github.com/duplicati/duplicati) - Supports WebDAV as a backup target (for Windows, Mac and Linux).
 - [GNOME Déjà Dup](https://wiki.gnome.org/Apps/DejaDup) - Supports WebDAV as a backup target.
+- [ioBroker.backitup](https://github.com/simatec/ioBroker.backitup) - a module for ioBroker home automation.
 
 ### Other apps
 
 _Apps and browser extensions that support WebDAV in some form, e.g. for backup and sync_
 
 - [Buttercup](https://buttercup.pw/) - A password manager. [Source code](https://github.com/buttercup)
-- [KODI](https://kodi.tv/) - An advanced media player for smart TV (Raspberry Pi, Android, tvOS) but also for iOS, Linux, , Windows, macOS.
+- [KODI](https://kodi.tv/) - An advanced media player for smart TV Raspberry Pi, Android, tvOS.
 - [KeePass Password Safe](https://keepass.info/) - Password manager that supports WebDAV sync (for Windows).
 - [floccus](https://floccus.org/) - Browser extension for bookmark sync that supports WebDAV (for Chrome, Firefox and Edge).
 - [Violentmonkey](https://violentmonkey.github.io/) - A web browser extension for UserJS management that can sync with WebDAV.
