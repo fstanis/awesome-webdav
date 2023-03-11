@@ -247,26 +247,28 @@ _Cloud services that offer a WebDAV server or otherwise allow access via WebDAV_
 
 - [1und1.de](https://www.1und1.de/) - a hosting and cloud (HiDrive). Based in Germany.
 - [4shared](https://www.4shared.com/web/helpCenter/fGeDNHCrXce#par_eight) - Fully supports WebDAV and allows synchronization over it. Based in Ukraine.
+- [~Box~](https://support.box.com/hc/en-us/articles/360043696414-WebDAV-with-Box) - Has a WebDAV URL that allows access via WebDAV (no longer supported).
 - [EDIS](https://www.edis.at/) - a (web) server and infrastructure hoster. Based in Austria.
+- [FastMail](https://www.fastmail.help/hc/en-us/articles/1500000277882-Remote-file-access) - an Email service with WebDAV access to files. Based in Australia.
+- [GM Cloud](https://www.gmx.com/cloud/) -  a Web portal with cloud feature. Based in Germany.
 - [IceDrive](https://icedrive.net/) - a cloud. Based in UK.
 - [infomaniak](https://www.infomaniak.com/) - The Ethical Cloud and colaboration service. Based in Switzerland.
 - [IONOS](https://www.ionos.com/) - a hosting and cloud (HiDrive). Based in US.
-- [FastMail](https://www.fastmail.help/hc/en-us/articles/1500000277882-Remote-file-access) - an Email service with WebDAV access to files. Based in Australia.
-- [GM Cloud](https://www.gmx.com/cloud/) -  a Web portal with cloud feature. Based in Germany.
-- [T-Online.de / Magenta](https://cloud.telekom-dienste.de/) - a ISP and cloud. Based in Germany.
-- [transip.nl](https://www.transip.nl/) - an ISP that offers cloud. Based in the Netherlands.
-- [OpenDrive](https://www.opendrive.com/) - a cloud and office suite. Based in US.
-- [pCloud](https://www.pcloud.com/) - business level accounts can use WebDAV.
+- [Jianguoyun / Nutstore](https://www.jianguoyun.com/) - a cloud and workspace. Based in China.
 - [Kolab Now](https://kb.kolabnow.com/faq/can-i-access-my-files-via-webdav) - a collaboration service. Based in Switzerland.
 - [Koofr](https://koofr.eu/) - a personal cloud services. Based in Slovenia.
 - [luckycloud](https://docs.luckycloud.de/en/cloud-storage/webdav) - an advanced cloud. Based in Germany.
 - [mail.com](https://www.mail.com/) - an Email service but also provides WebDAV access to stored files.
+- [OpenDrive](https://www.opendrive.com/) - a cloud and office suite. Based in US.
+- [pCloud](https://www.pcloud.com/) - business level accounts can use WebDAV.
 - [STRATO](https://www.strato.com/) - a hosting and cloud (HiDrive). Based in Germany, Netherlands, Spain, France, UK, Sweden.
-- [Yandex.Disk](https://yandex.com/dev/disk/webdav/) - Has a WebDAV API that treats its storage like a file system. Based in Russia.
-- [~Box~](https://support.box.com/hc/en-us/articles/360043696414-WebDAV-with-Box) - Has a WebDAV URL that allows access via WebDAV (no longer supported).
+- [T-Online.de / Magenta](https://cloud.telekom-dienste.de/) - a ISP and cloud. Based in Germany.
+- [transip.nl](https://www.transip.nl/) - an ISP that offers cloud. Based in the Netherlands.
 - [web.de](https://hilfe.web.de/cloud/netzlaufwerk/windows-10.html) - a Web portal with cloud feature. Based in Germany.
 - [Woelkli](https://woelkli.com/) - a NextCloud-based service. Based in Switzerland.
+- [Yandex.Disk](https://yandex.com/dev/disk/webdav/) - Has a WebDAV API that treats its storage like a file system. Based in Russia.
 - [Zaclys](https://www.zaclys.com/) - a NextCloud-based service. Based in France.
+
 
 ## Extensions
 
