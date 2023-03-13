@@ -126,6 +126,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [FileZilla Pro](https://filezillapro.com/how-to-connect-to-webdav/) - File transfer tool that supports many protocols, including WebDAV (for Windows, Mac and Linux).
 - [GNOME gvfs-mount](https://jeromebelleman.gitlab.io/posts/filesystems/gvfs/#from-a-webdav-server) - Mounting a WebDAV with GNOME Virtual Filesystem in user space. Linux.
 - [SmartFTP](https://www.smartftp.com/) - A file transfer program. `Proprietary`
+- [UIVI](https://sourceforge.net/projects/uivi/) - a Java GUI client. Can be runned as JNLP applet. `Public Domain` `Java`
 - [WinSCP](https://winscp.net/) - A popular SFTP client that also supports WebDAV (for Windows). `Proprietary`
 - [WebDrive](https://webdrive.com/) - A drive mapping utility. Windows, OS X, Android and iOS. `Proprietary`
 
