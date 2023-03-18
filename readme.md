@@ -114,7 +114,7 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 <a name="cli" />
 
 - [cadaver](https://notroj.github.io/cadaver/) - A command-line interactive FTP-like WebDAV client.
-- [curl](https://gist.github.com/stokito/cf82ce965718ce87f36b78f7501d7940(  A low level command line http client that allows to query WebDAV methods.
+- [curl](https://gist.github.com/stokito/cf82ce965718ce87f36b78f7501d7940) - a low level command line http client that allows to query WebDAV methods.
 - [davfs2](https://savannah.nongnu.org/projects/davfs2) - Allows mounting a WebDAV server as a local filesystem (for Linux).
 - [GNOME gvfs-mount](https://jeromebelleman.gitlab.io/posts/filesystems/gvfs/#from-a-webdav-server) - Mounting a WebDAV with GNOME Virtual Filesystem in user space. Linux.
 - [rclone](https://rclone.org/) - Supports WebDAV as a backup target and [can itself act as a WebDAV server](https://rclone.org/commands/rclone_serve_webdav/) (for Windows, Mac and Linux).
