@@ -183,10 +183,12 @@ _General purpose apps to browse and manage files on a WebDAV server_
 
 _Apps that support WebDAV in some form, e.g. for backup and sync_
 
+- [CloudBeats](https://www.cloudbeatsapp.com/) - A music player. `Proprietary`
 - [Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin) - Note taking and to-do application that supports WebDAV sync.
-- [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - KeePass-based password manager that supports WebDAV sync.
+- [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - KeePass-based password manager that supports WebDAV sync. [Sources](https://github.com/PhilippC/keepass2android). `GPL3`
 - [Orgzly](https://www.orgzly.com/) - Outliner for notes and to-do lists. [Source code](https://github.com/orgzly).
-- [CloudBeats](https://www.cloudbeatsapp.com/) - A music player. Not FOSS!
+- [SimpleTask](https://github.com/mpcjanssen/simpletask-android) - a simple task manager. `GPL3` `Kotlin`
+
 
 ### iOS
 
@@ -235,6 +237,9 @@ _Libraries for accessing a WebDAV storage and/or building a WebDAV server_
 ### Java
 
 - [Jackrabbit WebDAV Library](https://jackrabbit.apache.org/jcr/components/jackrabbit-webdav-library.html) - WebDAV Library component of the Apache Jackrabbit project.
+- [sardine-android](https://github.com/thegrizzlylabs/sardine-android) - a WebDAV client for Android, using OkHttp
+- [owncloud/android-library](https://github.com/owncloud/android-library/tree/master) - an ownCloud library that internally use WebDAV over OkHttp
+
 
 ### JavaScript
 
