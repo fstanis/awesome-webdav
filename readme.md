@@ -13,6 +13,7 @@ A curated list of awesome apps that support the WebDAV protocol ([RFC 4918](http
   - [Web servers](#web-servers)
   - [Docker images](#docker-images)
 - [PWA and online apps](#pwa)
+- [Command line tools](#cli)
 - [Desktop apps](#desktop-apps)
   - [File managers and tools](#file-managers-and-tools)
   - [Backup and sync](#backup-and-sync)
@@ -109,6 +110,15 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 - [webdav-js](https://github.com/dom111/webdav-js) - A simple WebDAV file manager for use as a bookmarklet, or integration into a web server. May be used as a simplest in-browser UI
 - [webdav-browser](https://github.com/stokito/webdav-browser-extension) - a browser (Chrome, [Firefox](https://addons.mozilla.org/en-US/firefox/addon/webdav-browser/)) extension to browse a URL as a WebDAV share
 
+## Command line tools
+<a name="cli" />
+
+- [cadaver](https://notroj.github.io/cadaver/) - A command-line interactive FTP-like WebDAV client.
+- [curl](https://gist.github.com/stokito/cf82ce965718ce87f36b78f7501d7940(  A low level command line http client that allows to query WebDAV methods.
+- [davfs2](https://savannah.nongnu.org/projects/davfs2) - Allows mounting a WebDAV server as a local filesystem (for Linux).
+- [GNOME gvfs-mount](https://jeromebelleman.gitlab.io/posts/filesystems/gvfs/#from-a-webdav-server) - Mounting a WebDAV with GNOME Virtual Filesystem in user space. Linux.
+- [rclone](https://rclone.org/) - Supports WebDAV as a backup target and [can itself act as a WebDAV server](https://rclone.org/commands/rclone_serve_webdav/) (for Windows, Mac and Linux).
+
 ## Desktop apps
 
 <a name="desktop-file-managers" />
@@ -117,15 +127,11 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 
 _General purpose apps to browse and manage files on a WebDAV server_
 
-- [cadaver](https://notroj.github.io/cadaver/) - A command-line interactive FTP-like WebDAV client.
-- [curl](https://code.blogs.iiidefix.net/posts/webdav-with-curl/) - A low level command line http client that allows to query WebDAV methods.
 - [CrossFTP](https://www.crossftp.com/) - Free client software that supports many protocols, including WebDAV (for Windows, Mac and Linux).
-- [davfs2](https://savannah.nongnu.org/projects/davfs2) - Allows mounting a WebDAV server as a local filesystem (for Linux).
 - [DaviX](https://davix.web.cern.ch/davix/docs/devel/) - A client for WebDAV and Amazon S3 for Windows, macOS and Linux. `LGPL` `C++`
 - [Far Manager](https://www.farmanager.com/) - A Norton Comander like file manager for Windows. Has a NetBox plugin with WebDAV support.
 - [far2l](https://github.com/elfmz/far2l) - A heavily rewritten Linux and MacOS port of FAR Manager. Has a NetRocks plugin with WebDAV support.
 - [FileZilla Pro](https://filezillapro.com/how-to-connect-to-webdav/) - File transfer tool that supports many protocols, including WebDAV (for Windows, Mac and Linux).
-- [GNOME gvfs-mount](https://jeromebelleman.gitlab.io/posts/filesystems/gvfs/#from-a-webdav-server) - Mounting a WebDAV with GNOME Virtual Filesystem in user space. Linux.
 - [SmartFTP](https://www.smartftp.com/) - A file transfer program. `Proprietary`
 - [UIVI](https://sourceforge.net/projects/uivi/) - a Java GUI client. Can be runned as JNLP applet. `Public Domain` `Java`
 - [WinSCP](https://winscp.net/) - A popular SFTP client that also supports WebDAV (for Windows). `Proprietary`
@@ -146,7 +152,6 @@ _General purpose apps to browse and manage files on a WebDAV server_
 
 _Apps used for backup and/or synchronizing data between multiple destinations_
 
-- [rclone](https://rclone.org/) - Supports WebDAV as a backup target and [can itself act as a WebDAV server](https://rclone.org/commands/rclone_serve_webdav/) (for Windows, Mac and Linux).
 - [Duplicacy](https://duplicacy.com/) - Beta support for WebDAV as a backup target (for Windows, Mac and Linux).
 - [Duplicati](https://github.com/duplicati/duplicati) - Supports WebDAV as a backup target (for Windows, Mac and Linux).
 - [GNOME Déjà Dup](https://wiki.gnome.org/Apps/DejaDup) - Supports WebDAV as a backup target.
