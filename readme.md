@@ -129,6 +129,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [UIVI](https://sourceforge.net/projects/uivi/) - a Java GUI client. Can be runned as JNLP applet. `Public Domain` `Java`
 - [WinSCP](https://winscp.net/) - A popular SFTP client that also supports WebDAV (for Windows). `Proprietary`
 - [WebDrive](https://webdrive.com/) - A drive mapping utility. Windows, OS X, Android and iOS. `Proprietary`
+- [Zotero](https://www.zotero.org/) - an easy-to-use desktop app to collect, organize, annotate, cite, and share research. `AGPLv3` `JavaScript`
 
 #### macOS only
 - [Commander One](https://mac.eltima.com/file-manager.html) - A file manager for macOS
@@ -166,7 +167,7 @@ _Apps and browser extensions that support WebDAV in some form, e.g. for backup a
 
 <a name="android-file-managers" />
 
-#### File managers
+#### File managers and backup
 
 _General purpose apps to browse and manage files on a WebDAV server_
 
@@ -174,6 +175,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander) - File manager that has a WebDAV plugin.
 - [X-plore File Manager](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) - File manager supporting WebDAV mounts.
 - [MiXplorer](https://forum.xda-developers.com/showpost.php?p=23109280&postcount=2) - File manager that supports WebDAV.
+- [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) - backup. `Proprietary`
 
 <a name="android-other-apps" />
 
@@ -250,10 +252,11 @@ _Cloud services that offer a WebDAV server or otherwise allow access via WebDAV_
 - [1und1.de](https://www.1und1.de/) - a hosting and cloud (HiDrive). Based in Germany.
 - [4shared](https://www.4shared.com/web/helpCenter/fGeDNHCrXce#par_eight) - Fully supports WebDAV and allows synchronization over it. Based in Ukraine.
 - [~Box~](https://support.box.com/hc/en-us/articles/360043696414-WebDAV-with-Box) - Has a WebDAV URL that allows access via WebDAV (no longer supported).
+- [CloudMe](https://www.cloudme.com/en/webdav) - cloud solution.  Based in Sweden.
 - [EDIS](https://www.edis.at/) - a (web) server and infrastructure hoster. Based in Austria.
 - [FastMail](https://www.fastmail.help/hc/en-us/articles/1500000277882-Remote-file-access) - an Email service with WebDAV access to files. Based in Australia.
 - [GM Cloud](https://www.gmx.com/cloud/) -  a Web portal with cloud feature. Based in Germany.
-- [IceDrive](https://icedrive.net/) - a cloud. Based in UK.
+- [IceDrive](https://icedrive.net/) - a cloud solution. Based in UK.
 - [infomaniak](https://www.infomaniak.com/) - The Ethical Cloud and colaboration service. Based in Switzerland.
 - [IONOS](https://www.ionos.com/) - a hosting and cloud (HiDrive). Based in US.
 - [Jianguoyun / Nutstore](https://www.jianguoyun.com/) - a cloud and workspace. Based in China.
@@ -261,6 +264,7 @@ _Cloud services that offer a WebDAV server or otherwise allow access via WebDAV_
 - [Koofr](https://koofr.eu/) - a personal cloud services. Based in Slovenia.
 - [luckycloud](https://docs.luckycloud.de/en/cloud-storage/webdav) - an advanced cloud. Based in Germany.
 - [mail.com](https://www.mail.com/) - an Email service but also provides WebDAV access to stored files.
+- [MyDrive](https://www.mydrive.ch/) - s cloud solution. Based in Switzerland.
 - [OpenDrive](https://www.opendrive.com/) - a cloud and office suite. Based in US.
 - [pCloud](https://www.pcloud.com/) - business level accounts can use WebDAV.
 - [STRATO](https://www.strato.com/) - a hosting and cloud (HiDrive). Based in Germany, Netherlands, Spain, France, UK, Sweden.
