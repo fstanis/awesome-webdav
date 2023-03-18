@@ -59,7 +59,7 @@ _Setting up a WebDAV server_
 
 ## Servers
 
-### Standalone 
+### Standalone
 
 _Standalone servers and personal cloud solutions specifically built for WebDAV and its extensions_
 
@@ -116,8 +116,11 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 - [cadaver](https://notroj.github.io/cadaver/) - A command-line interactive FTP-like WebDAV client.
 - [curl](https://gist.github.com/stokito/cf82ce965718ce87f36b78f7501d7940) - a low level command line http client that allows to query WebDAV methods.
 - [davfs2](https://savannah.nongnu.org/projects/davfs2) - Allows mounting a WebDAV server as a local filesystem (for Linux).
+- [DaviX](https://davix.web.cern.ch/davix/docs/devel/) - A client for WebDAV and Amazon S3 for Windows, macOS and Linux. `LGPL` `C++`
 - [GNOME gvfs-mount](https://jeromebelleman.gitlab.io/posts/filesystems/gvfs/#from-a-webdav-server) - Mounting a WebDAV with GNOME Virtual Filesystem in user space. Linux.
+- [KDE kioclient](https://manpages.ubuntu.com/manpages/bionic/en/man1/kioclient.1.html) - supports basic operations e.g. `kioclient cp file.txt 'webdavs://user@example.com/dav/'
 - [rclone](https://rclone.org/) - Supports WebDAV as a backup target and [can itself act as a WebDAV server](https://rclone.org/commands/rclone_serve_webdav/) (for Windows, Mac and Linux).
+
 
 ## Desktop apps
 
@@ -128,7 +131,6 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 _General purpose apps to browse and manage files on a WebDAV server_
 
 - [CrossFTP](https://www.crossftp.com/) - Free client software that supports many protocols, including WebDAV (for Windows, Mac and Linux).
-- [DaviX](https://davix.web.cern.ch/davix/docs/devel/) - A client for WebDAV and Amazon S3 for Windows, macOS and Linux. `LGPL` `C++`
 - [Far Manager](https://www.farmanager.com/) - A Norton Comander like file manager for Windows. Has a NetBox plugin with WebDAV support.
 - [far2l](https://github.com/elfmz/far2l) - A heavily rewritten Linux and MacOS port of FAR Manager. Has a NetRocks plugin with WebDAV support.
 - [FileZilla Pro](https://filezillapro.com/how-to-connect-to-webdav/) - File transfer tool that supports many protocols, including WebDAV (for Windows, Mac and Linux).
