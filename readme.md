@@ -40,6 +40,7 @@ _General information about WebDAV_
 - [Wikipedia article](https://en.wikipedia.org/wiki/WebDAV)
 - [DAV Frequently Asked Questions](http://www.webdav.org/other/faq.html)
 - [Exploiting WebDAV](https://vk9-sec.com/exploiting-webdav/)
+- [WebDavServer.com](https://webdavserver.com/) an online demo to test
 
 ### Client guides
 
@@ -118,7 +119,7 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 - [davfs2](https://savannah.nongnu.org/projects/davfs2) - Allows mounting a WebDAV server as a local filesystem (for Linux).
 - [DaviX](https://davix.web.cern.ch/davix/docs/devel/) - A client for WebDAV and Amazon S3 for Windows, macOS and Linux. `LGPL` `C++`
 - [GNOME gvfs-mount](https://jeromebelleman.gitlab.io/posts/filesystems/gvfs/#from-a-webdav-server) - Mounting a WebDAV with GNOME Virtual Filesystem in user space. Linux.
-- [KDE kioclient](https://manpages.ubuntu.com/manpages/bionic/en/man1/kioclient.1.html) - supports basic operations e.g. `kioclient cp file.txt 'webdavs://user@example.com/dav/'
+- [KDE kioclient](https://manpages.ubuntu.com/manpages/bionic/en/man1/kioclient.1.html) - supports basic operations e.g. `kioclient cp file.txt 'webdavs://user@example.com/dav/`
 - [rclone](https://rclone.org/) - Supports WebDAV as a backup target and [can itself act as a WebDAV server](https://rclone.org/commands/rclone_serve_webdav/) (for Windows, Mac and Linux).
 
 
@@ -163,6 +164,7 @@ _Apps used for backup and/or synchronizing data between multiple destinations_
 _Apps and browser extensions that support WebDAV in some form, e.g. for backup and sync_
 
 - [Buttercup](https://buttercup.pw/) - A password manager. [Source code](https://github.com/buttercup)
+- [Cryptomator](https://cryptomator.org/) - a tool to encrypt files and backup.
 - [KODI](https://kodi.tv/) - An advanced media player for smart TV Raspberry Pi, Android, tvOS.
 - [gnome-user-share](https://gitlab.gnome.org/GNOME/gnome-user-share) - configure an Apache WebDAV directly from Nautilus
 - [KeePass Password Safe](https://keepass.info/) - Password manager that supports WebDAV sync (for Windows).
