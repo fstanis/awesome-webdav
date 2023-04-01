@@ -255,12 +255,14 @@ _Libraries for accessing a WebDAV storage and/or building a WebDAV server_
 
 ### JavaScript
 
-- [webdav](https://github.com/perry-mitchell/webdav-client) - WebDAV client written in JavaScript for Node.js and the browser.
+- [perry-mitchell/webdav-client](https://github.com/perry-mitchell/webdav-client) - WebDAV client written in JavaScript for Node.js and the browser.
 - [unifile](https://github.com/silexlabs/unifile) - Node.js library to access cloud storage which supports WebDAV.
+- [mikedeboer/jsDAV](https://github.com/mikedeboer/jsDAV) - a Node.js port of SabreDAV with support of many features.
 
 ### Python
 
 - [webdavclient3](https://pypi.org/project/webdavclient3/) - WebDAV client for Python 3.x.
+- [YaDiskClient](https://github.com/TyVik/YaDiskClient) - a simple to use client for Yandex Disk. `MIT`
 
 ## Cloud providers
 
