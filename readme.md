@@ -75,6 +75,10 @@ _Standalone servers and personal cloud solutions specifically built for WebDAV a
 - [Seafile](https://github.com/haiwen/seafdav) - A webdav server written in Python
 - [SFTPGo](https://github.com/drakkan/sftpgo) - SFTP server with optional FTP/S and WebDAV support.
 - [weborf](https://ltworf.github.io/weborf/) - a minimal HTTP server to share your files. Has a GUI [qweborf](https://ltworf.github.io/weborf/qweborf.html).
+- "Written in Rust". They all are similar to weborf by functionality but more advanced and fancy
+  - [sigoden/dufs](https://github.com/sigoden/dufs)
+  - [thecoshman/http](https://github.com/thecoshman/http)
+  - [messense/dav-server-rs](https://github.com/messense/dav-server-rs) library for WebDAV and there are a lot of [small webservers based on it](https://github.com/messense/dav-server-rs/network/dependents). 
 
 ### Web servers
 
