@@ -105,9 +105,11 @@ _Docker images for easily deploying a WebDAV server_
 Online apps that can connect directly to your WebDAV share. You'll need a CORS enabled.
 See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito/0a6274106d407ba6d9fb776e7773445d)
 
+- [Astiga](https://asti.ga/) - an onine music player. `Proprieatary`
 - [Davros](https://github.com/mnutt/davros) - a web file manager in NodeJS that uses WebDAV as a protocol. Used by [Sandstorm.io](https://sandtorm.io)
 - [DevNotes](https://rainu.github.io/dev-notes/) - A notes app. [Source code](https://github.com/rainu/dev-notes)
-- [Diffuse](https://diffuse.sh/) - A music player [Source code](https://github.com/icidasset/diffuse).
+- [Diffuse](https://diffuse.sh/) - an onine music player [Source code](https://github.com/icidasset/diffuse).
+- [Filerun](https://filerun.com/) - a paid self hosted cloud. `Proprieatary`
 - [Supper Productivity](https://app.super-productivity.com/) - A powerful TODO App. [Source code](https://github.com/johannesjo/super-productivity).
 - [OxIDE](https://github.com/bootrino/reactoxide) - a simple code editor that you can add to your ReactJS projects. `MIT` `TypeScript`
 - [TiddlyWiki](https://tiddlywiki.com/) - A non-linear notebook for capturing, organising and sharing complex information
@@ -126,7 +128,7 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 - [GNOME gvfs-mount](https://jeromebelleman.gitlab.io/posts/filesystems/gvfs/#from-a-webdav-server) - Mounting a WebDAV with GNOME Virtual Filesystem in user space. Linux.
 - [KDE kioclient](https://manpages.ubuntu.com/manpages/bionic/en/man1/kioclient.1.html) - supports basic operations e.g. `kioclient cp file.txt 'webdavs://user@example.com/dav/`
 - [rclone](https://rclone.org/) - Supports WebDAV as a backup target and [can itself act as a WebDAV server](https://rclone.org/commands/rclone_serve_webdav/) (for Windows, Mac and Linux).
-
+- [WebDAV-AudioPlayer](https://github.com/StefH/WebDAV-AudioPlayer) - a simple AudioPlayer (web-based Blazor & Windows WinForms).
 
 ## Desktop apps
 
