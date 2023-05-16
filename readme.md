@@ -195,6 +195,9 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [X-plore File Manager](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) - File manager supporting WebDAV mounts.
 - [MiXplorer](https://forum.xda-developers.com/showpost.php?p=23109280&postcount=2) - File manager that supports WebDAV.
 - [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) - backup. `Proprietary`
+- [RCX](https://github.com/x0b/rcx) Rclone sync for Android (unmaintained). `GPL-3.0`
+- [extRact](https://github.com/newhinton/extRact) Rclone sync for Android (fork of RCX). `GPL-3.0`
+- [NextCloud Android App](https://github.com/nextcloud/android)
 - [RS File Explorer](https://play.google.com/store/apps/details?id=com.rs.explorer.filemanager) - a file manager supporting WebDAV. `Proprietary`
 
 <a name="android-other-apps" />
