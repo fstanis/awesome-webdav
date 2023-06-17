@@ -75,6 +75,8 @@ _Standalone servers and personal cloud solutions specifically built for WebDAV a
 - [sabre/dav](https://sabre.io/) - Open source CardDAV, CalDAV and WebDAV server.
 - [Seafile](https://github.com/haiwen/seafdav) - A webdav server written in Python
 - [SFTPGo](https://github.com/drakkan/sftpgo) - SFTP server with optional FTP/S and WebDAV support.
+- [tolsen/limestone](https://github.com/tolsen/limestone) - Advanced WebDAV server backed by a Postgres database. Supports ACL, Search, BIND, Redirect, and partial DeltaV.
+- [tolsen/limeberry](https://github.com/tolsen/limeberry) - WebDAV server (Rails 1.2)
 - [weborf](https://ltworf.github.io/weborf/) - a minimal HTTP server to share your files. Has a GUI [qweborf](https://ltworf.github.io/weborf/qweborf.html).
 - "Written in Rust". They all are similar to weborf by functionality but more advanced and fancy
   - [sigoden/dufs](https://github.com/sigoden/dufs)
@@ -130,7 +132,8 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 - [KDE kioclient](https://manpages.ubuntu.com/manpages/bionic/en/man1/kioclient.1.html) - supports basic operations e.g. `kioclient cp file.txt 'webdavs://user@example.com/dav/`
 - [rclone](https://rclone.org/) - Supports WebDAV as a backup target and [can itself act as a WebDAV server](https://rclone.org/commands/rclone_serve_webdav/) (for Windows, Mac and Linux).
 - [litmus](https://notroj.github.io/litmus/) - a test suite from author of neon, which aims to test whether a server is compliant with the WebDAV protocol. `GPL-2.0` `C`
-- [rubydav](https://github.com/tolsen/rubydav/tree/master/test) a test suite for WebDAV server
+- [tolsen/rubydav](https://github.com/tolsen/rubydav/tree/master/test) - a test suite for WebDAV server
+- [tolsen/Prestan](https://github.com/tolsen/Prestan) - a WebDAV performance benchmark
 - [WebDAV-AudioPlayer](https://github.com/StefH/WebDAV-AudioPlayer) - a simple AudioPlayer (web-based Blazor & Windows WinForms).
 
 ## Desktop apps
