@@ -39,6 +39,7 @@ _General information about WebDAV_
 
 - [Wikipedia article](https://en.wikipedia.org/wiki/WebDAV)
 - [DAV Frequently Asked Questions](http://www.webdav.org/other/faq.html)
+- Book [WebDAV: Next-Generation Collaborative Web Authoring: Next-Generation Collaborative Web Authoring](https://www.amazon.com/WebDAV-Next-Generation-Collaborative-Web-Authoring/dp/0130652083) - the author, goes into not only the details, but explains the problems with some of the specs (especially DeltaV).
 - [Exploiting WebDAV](https://vk9-sec.com/exploiting-webdav/)
 - [WebDavServer.com](https://webdavserver.com/) an online demo to test
 
