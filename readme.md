@@ -130,6 +130,7 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 - [KDE kioclient](https://manpages.ubuntu.com/manpages/bionic/en/man1/kioclient.1.html) - supports basic operations e.g. `kioclient cp file.txt 'webdavs://user@example.com/dav/`
 - [rclone](https://rclone.org/) - Supports WebDAV as a backup target and [can itself act as a WebDAV server](https://rclone.org/commands/rclone_serve_webdav/) (for Windows, Mac and Linux).
 - [litmus](https://notroj.github.io/litmus/) - a test suite from author of neon, which aims to test whether a server is compliant with the WebDAV protocol. `GPL-2.0` `C`
+- [rubydav](https://github.com/tolsen/rubydav/tree/master/test) a test suite for WebDAV server
 - [WebDAV-AudioPlayer](https://github.com/StefH/WebDAV-AudioPlayer) - a simple AudioPlayer (web-based Blazor & Windows WinForms).
 
 ## Desktop apps
