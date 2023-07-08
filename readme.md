@@ -257,6 +257,11 @@ _Libraries for accessing a WebDAV storage and/or building a WebDAV server_
 
 - [webdav-client-cpp](https://github.com/CloudPolis/webdav-client-cpp) - C++ WebDAV Client.
 
+### Objective-C / iOS
+
+- https://github.com/mattrajca/DAVKit
+- https://github.com/zwaldowski/DZWebDAVClient
+
 ### Go
 
 - [golang.org/x/net/webdav](https://godoc.org/golang.org/x/net/webdav) - WebDAV server implementation as part of the standard library.
