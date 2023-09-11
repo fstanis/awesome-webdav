@@ -180,6 +180,7 @@ _Apps and browser extensions that support WebDAV in some form, e.g. for backup a
 - [Cryptomator](https://cryptomator.org/) - a tool to encrypt files and backup.
 - [KODI](https://kodi.tv/) - An advanced media player for smart TV Raspberry Pi, Android, tvOS.
 - [gnome-user-share](https://gitlab.gnome.org/GNOME/gnome-user-share) - configure an Apache WebDAV directly from Nautilus
+- [Gnome Gnote](https://wiki.gnome.org/Apps/Gnote) - app for taking notes with WebDAV sync.
 - [KeePass Password Safe](https://keepass.info/) - Password manager that supports WebDAV sync (for Windows).
 - [PhotoPrism](https://photoprism.app/) AI-Powered Photos App. Supports [sync by WebDAV](https://docs.photoprism.app/user-guide/sync/webdav/)
 - [Floccus](https://floccus.org/) - Browser extension for bookmark sync that supports WebDAV (for Chrome, Firefox and Edge).
