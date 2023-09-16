@@ -209,11 +209,20 @@ _General purpose apps to browse and manage files on a WebDAV server_
 
 <a name="android-other-apps" />
 
+#### Players
+
+- [CloudBeats](https://www.cloudbeatsapp.com/) - A music player. `Proprietary`
+- [Capriccio ](https://play.google.com/store/apps/details?id=me.ideariboso.capriccio) - a music player. `Proprietary`
+- [FX Player](https://play.google.com/store/apps/details?id=tv.fipe.fplayer) - music/video player. `Proprietary`
+- [GOM Player](https://play.google.com/store/apps/details?id=com.gretech.gomplayerko) - music/video player. `Proprietary`
+- VLC: [is planed](https://wiki.videolan.org/Bounties/#Webdav_support)
+- [NOVA](https://github.com/nova-video-player/aos-AVP). `Apache-2.0`
+- [Neutron](https://play.google.com/store/apps/details?id=com.neutroncode.mpeval) - a music player. `Proprietary`
+
 #### Other apps
 
 _Apps that support WebDAV in some form, e.g. for backup and sync_
 
-- [CloudBeats](https://www.cloudbeatsapp.com/) - A music player. `Proprietary`
 - [Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin) - Note taking and to-do application that supports WebDAV sync.
 - [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - KeePass-based password manager that supports WebDAV sync. [Sources](https://github.com/PhilippC/keepass2android). `GPL3`
 - [Orgzly](https://www.orgzly.com/) - Outliner for notes and to-do lists. [Source code](https://github.com/orgzly).
@@ -244,6 +253,7 @@ _Apps that support WebDAV in some form, e.g. for backup and sync_
 - [Notebooks 10](https://apps.apple.com/app/notebooks-write-and-organize/id1490084838) - Writing app, a text and markdown editor with WebDAV support.
 - [Strongbox](https://apps.apple.com/app/strongbox-password-safe/id897283731) - KeePass-based password manager that supports WebDAV sync.
 - [Notability](https://apps.apple.com/app/notability/id360593530) - Note-taking app that supports webDAV for backups.
+- [PotPlayer](https://potplayer.daum.net/) - Windows only.
 
 
 ## Libraries
@@ -263,6 +273,10 @@ _Libraries for accessing a WebDAV storage and/or building a WebDAV server_
 - https://github.com/mattrajca/DAVKit
 - https://github.com/zwaldowski/DZWebDAVClient
 
+### .Net
+
+- https://github.com/saguiitay/WebDAVClient
+
 ### Go
 
 - [golang.org/x/net/webdav](https://godoc.org/golang.org/x/net/webdav) - WebDAV server implementation as part of the standard library.
@@ -272,6 +286,7 @@ _Libraries for accessing a WebDAV storage and/or building a WebDAV server_
 ### Java
 
 - [Jackrabbit WebDAV Library](https://jackrabbit.apache.org/jcr/components/jackrabbit-webdav-library.html) - WebDAV Library component of the Apache Jackrabbit project.
+- [sardine](https://github.com/lookfirst/sardine)
 - [sardine-android](https://github.com/thegrizzlylabs/sardine-android) - a WebDAV client for Android, using OkHttp
 - [owncloud/android-library](https://github.com/owncloud/android-library/tree/master) - an ownCloud library that internally use WebDAV over OkHttp
 
