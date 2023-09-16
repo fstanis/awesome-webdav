@@ -67,6 +67,7 @@ _Standalone servers and personal cloud solutions specifically built for WebDAV a
 
 - [asgi-webdav](https://github.com/rexzhang/asgi-webdav) -a An asynchronous WebDAV server, Support multi-provider, multi-account and permission control. `MIT` `Python`
 - [Davis](https://github.com/tchapi/davis) a simple interfacefor sabre/dav based on Symfony and Bootstrap, largely inspired by Baïkal.
+- [dave](https://github.com/micromata/dave/) - a simple WebDAV server written in Go
 - [hacdias-webdav](https://github.com/hacdias/webdav) - A simple yet configurable WebDAV server written in Go.
 - [FuguHub](https://fuguhub.com/) - a personal cloud server with a web ui.
 - [Nextcloud](https://docs.nextcloud.com/server/latest/user_manual/en/files/access_webdav.html) - Personal cloud solution. See [demo](https://clouddemo.nextfiles.eu/)
