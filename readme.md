@@ -208,7 +208,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [NextCloud Android App](https://github.com/nextcloud/android)
 - [RS File Explorer](https://play.google.com/store/apps/details?id=com.rs.explorer.filemanager) - a file manager supporting WebDAV. `Proprietary`
 
-<a name="android-other-apps" />
+<a name="android-players" />
 
 #### Players
 
@@ -217,8 +217,10 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [FX Player](https://play.google.com/store/apps/details?id=tv.fipe.fplayer) - music/video player. `Proprietary`
 - [GOM Player](https://play.google.com/store/apps/details?id=com.gretech.gomplayerko) - music/video player. `Proprietary`
 - VLC: [is planed](https://wiki.videolan.org/Bounties/#Webdav_support)
-- [NOVA](https://github.com/nova-video-player/aos-AVP). `Apache-2.0`
+- [NOVA](https://github.com/nova-video-player/aos-AVP) - an open source video player with AndroidTV support. `Apache-2.0`
 - [Neutron](https://play.google.com/store/apps/details?id=com.neutroncode.mpeval) - a music player. `Proprietary`
+
+<a name="android-other-apps" />
 
 #### Other apps
 
@@ -340,7 +342,6 @@ _Protocol extensions and related protocols_
 
 - [CalDAV](https://en.wikipedia.org/wiki/CalDAV)
 - [CardDAV](https://en.wikipedia.org/wiki/CardDAV)
-- [GroupDAV](https://en.wikipedia.org/wiki/GroupDAV)
 - [Microsoft Extensions](https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-wdvme/8cafdf55-ee5c-443e-bdb7-2cb2ab1fb2c3)
 
 <!-- https://github.com/kristapsdz/kcaldav -->
