@@ -288,10 +288,11 @@ _Libraries for accessing a WebDAV storage and/or building a WebDAV server_
 
 ### Java
 
-- [Jackrabbit WebDAV Library](https://jackrabbit.apache.org/jcr/components/jackrabbit-webdav-library.html) - WebDAV Library component of the Apache Jackrabbit project.
-- [sardine](https://github.com/lookfirst/sardine)
-- [sardine-android](https://github.com/thegrizzlylabs/sardine-android) - a WebDAV client for Android, using OkHttp
-- [owncloud/android-library](https://github.com/owncloud/android-library/tree/master) - an ownCloud library that internally use WebDAV over OkHttp
+- [Jackrabbit WebDAV Library](https://jackrabbit.apache.org/jcr/components/jackrabbit-webdav-library.html) - WebDAV Library component of the Apache Jackrabbit project. `Apache-2.0`
+- [sardine](https://github.com/lookfirst/sardine) - Java client. `Apache-2.0`
+- [sardine-android](https://github.com/thegrizzlylabs/sardine-android) - a WebDAV client for Android, using OkHttp. `Apache-2.0`
+- [owncloud/android-library](https://github.com/owncloud/android-library) - an ownCloud library that internally use WebDAV over OkHttp. `MIT`
+- [dav4jvm](https://github.com/bitfireAT/dav4jvm) - dav4jvm is a WebDAV/CalDAV/CardDAV library for JVM (Java/Kotlin) developed for DAVx⁵. `MPL-2.0`
 
 
 ### JavaScript
