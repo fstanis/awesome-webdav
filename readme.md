@@ -198,6 +198,7 @@ _Apps and browser extensions that support WebDAV in some form, e.g. for backup a
 
 _General purpose apps to browse and manage files on a WebDAV server_
 
+- [EasySync](https://github.com/phpbg/easysync) - backup and sync files with WebDAV share.
 - [WebDAV Navigator](https://play.google.com/store/apps/details?id=com.schimera.webdavnav) - WebDAV client for Android devices.
 - [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander) - File manager that has a WebDAV plugin.
 - [X-plore File Manager](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) - File manager supporting WebDAV mounts.
