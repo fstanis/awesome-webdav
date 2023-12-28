@@ -198,15 +198,15 @@ _Apps and browser extensions that support WebDAV in some form, e.g. for backup a
 
 _General purpose apps to browse and manage files on a WebDAV server_
 
-- [EasySync](https://github.com/phpbg/easysync) - backup and sync files with WebDAV share.
-- [WebDAV Navigator](https://play.google.com/store/apps/details?id=com.schimera.webdavnav) - WebDAV client for Android devices.
-- [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander) - File manager that has a WebDAV plugin.
-- [X-plore File Manager](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) - File manager supporting WebDAV mounts.
-- [MiXplorer](https://forum.xda-developers.com/showpost.php?p=23109280&postcount=2) - File manager that supports WebDAV.
+- [EasySync](https://github.com/phpbg/easysync) - backup and sync files with WebDAV share. `MIT`
+- [WebDAV Navigator](https://play.google.com/store/apps/details?id=com.schimera.webdavnav) - WebDAV client for Android devices. `Proprietary`
+- [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander) - File manager that has a WebDAV plugin. `Proprietary`
+- [X-plore File Manager](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) - File manager supporting WebDAV mounts. `Proprietary`
+- [MiXplorer](https://forum.xda-developers.com/showpost.php?p=23109280&postcount=2) - File manager that supports WebDAV. `Proprietary`
 - [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) - backup. `Proprietary`
-- [RCX](https://github.com/x0b/rcx) Rclone sync for Android (unmaintained). `GPL-3.0`
-- [extRact](https://github.com/newhinton/extRact) Rclone sync for Android (fork of RCX). `GPL-3.0`
-- [NextCloud Android App](https://github.com/nextcloud/android)
+- [RCX](https://github.com/x0b/rcx) Rclone sync for Android (unmaintained, use Round Sync). `GPL-3.0`
+- [Round Sync](https://github.com/newhinton/Round-Sync) Rclone sync for Android (fork of RCX). `GPL-3.0`
+- [NextCloud Android App](https://github.com/nextcloud/android) `GPL-2.0`
 - [RS File Explorer](https://play.google.com/store/apps/details?id=com.rs.explorer.filemanager) - a file manager supporting WebDAV. `Proprietary`
 
 <a name="android-players" />
