@@ -208,6 +208,8 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [Round Sync](https://github.com/newhinton/Round-Sync) Rclone sync for Android (fork of RCX). `GPL-3.0`
 - [NextCloud Android App](https://github.com/nextcloud/android) `GPL-2.0`
 - [RS File Explorer](https://play.google.com/store/apps/details?id=com.rs.explorer.filemanager) - a file manager supporting WebDAV. `Proprietary`
+- [ndl/wedaban](https://github.com/ndl/wedaban) - an implementation of Android Backup API for backups to WebDAV servers. `WIP`
+- [alexbakker/webdav-provider](https://github.com/alexbakker/webdav-provider) - WebDAV storage to other apps through Android's Storage Access Framework (SAF)
 
 <a name="android-players" />
 
@@ -218,6 +220,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [FX Player](https://play.google.com/store/apps/details?id=tv.fipe.fplayer) - music/video player. `Proprietary`
 - [GOM Player](https://play.google.com/store/apps/details?id=com.gretech.gomplayerko) - music/video player. `Proprietary`
 - VLC: [is planed](https://wiki.videolan.org/Bounties/#Webdav_support)
+- [danfr/webdav-player](https://github.com/danfr/webdav-player) - access to remote WebDAV repository and play media files using VLC. `WIP`
 - [NOVA](https://github.com/nova-video-player/aos-AVP) - an open source video player with AndroidTV support. `Apache-2.0`
 - [Neutron](https://play.google.com/store/apps/details?id=com.neutroncode.mpeval) - a music player. `Proprietary`
 
