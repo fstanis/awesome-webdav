@@ -234,6 +234,7 @@ _Apps that support WebDAV in some form, e.g. for backup and sync_
 - [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - KeePass-based password manager that supports WebDAV sync. [Sources](https://github.com/PhilippC/keepass2android). `GPL3`
 - [Orgzly](https://www.orgzly.com/) - Outliner for notes and to-do lists. [Source code](https://github.com/orgzly).
 - [SimpleTask](https://github.com/mpcjanssen/simpletask-android) - a simple task manager. `GPL3` `Kotlin`
+- [pokatomnik/Davno](https://github.com/pokatomnik/Davno) - webDAV NOtes. `WIP`
 
 
 ### iOS
