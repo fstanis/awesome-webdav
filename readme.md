@@ -79,6 +79,7 @@ _Standalone servers and personal cloud solutions specifically built for WebDAV a
 - [tolsen/limestone](https://github.com/tolsen/limestone) - Advanced WebDAV server backed by a Postgres database. Supports ACL, Search, BIND, Redirect, and partial DeltaV.
 - [tolsen/limeberry](https://github.com/tolsen/limeberry) - WebDAV server (Rails 1.2)
 - [weborf](https://ltworf.github.io/weborf/) - a minimal HTTP server to share your files. Has a GUI [qweborf](https://ltworf.github.io/weborf/qweborf.html).
+- [WebDAV VFS gate](https://github.com/a-langer/webdav-vfs-gate) - Open source JEE application for web containers, such as Tomcat, Jetty, JBoss and similar.
 - "Written in Rust". They all are similar to weborf by functionality but more advanced and fancy
   - [sigoden/dufs](https://github.com/sigoden/dufs)
   - [thecoshman/http](https://github.com/thecoshman/http)
@@ -185,6 +186,7 @@ _Apps and browser extensions that support WebDAV in some form, e.g. for backup a
 - [KeePass Password Safe](https://keepass.info/) - Password manager that supports WebDAV sync (for Windows).
 - [PhotoPrism](https://photoprism.app/) AI-Powered Photos App. Supports [sync by WebDAV](https://docs.photoprism.app/user-guide/sync/webdav/)
 - [Floccus](https://floccus.org/) - Browser extension for bookmark sync that supports WebDAV (for Chrome, Firefox and Edge).
+- [Stylus](https://add0n.com/stylus.html) - Browser extension for custom CSS that can sync with WebDAV.
 - [Violentmonkey](https://violentmonkey.github.io/) - A web browser extension for UserJS management that can sync with WebDAV.
 - [Zotero](https://www.zotero.org/) - an easy-to-use desktop app to collect, organize, annotate, cite, and share research. `AGPLv3` `JavaScript`
 
@@ -198,8 +200,8 @@ _Apps and browser extensions that support WebDAV in some form, e.g. for backup a
 
 _General purpose apps to browse and manage files on a WebDAV server_
 
+- [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer) - File manager that has a WebDAV support built in. `Proprietary`
 - [EasySync](https://github.com/phpbg/easysync) - backup and sync files with WebDAV share. `MIT`
-- [WebDAV Navigator](https://play.google.com/store/apps/details?id=com.schimera.webdavnav) - WebDAV client for Android devices. `Proprietary`
 - [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander) - File manager that has a WebDAV plugin. `Proprietary`
 - [X-plore File Manager](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) - File manager supporting WebDAV mounts. `Proprietary`
 - [MiXplorer](https://forum.xda-developers.com/showpost.php?p=23109280&postcount=2) - File manager that supports WebDAV. `Proprietary`
@@ -208,8 +210,9 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [Round Sync](https://github.com/newhinton/Round-Sync) Rclone sync for Android (fork of RCX). `GPL-3.0`
 - [NextCloud Android App](https://github.com/nextcloud/android) `GPL-2.0`
 - [RS File Explorer](https://play.google.com/store/apps/details?id=com.rs.explorer.filemanager) - a file manager supporting WebDAV. `Proprietary`
+- [WebDAV Navigator](https://play.google.com/store/apps/details?id=com.schimera.webdavnav) - WebDAV client for Android devices. `Proprietary`
 - [ndl/wedaban](https://github.com/ndl/wedaban) - an implementation of Android Backup API for backups to WebDAV servers. `WIP`
-- [alexbakker/webdav-provider](https://github.com/alexbakker/webdav-provider) - WebDAV storage to other apps through Android's Storage Access Framework (SAF)
+- [alexbakker/webdav-provider](https://github.com/alexbakker/webdav-provider) - WebDAV storage to other apps through Android's Storage Access Framework (SAF). `GPL-3.0`
 
 <a name="android-players" />
 
@@ -232,6 +235,7 @@ _Apps that support WebDAV in some form, e.g. for backup and sync_
 
 - [Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin) - Note taking and to-do application that supports WebDAV sync.
 - [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - KeePass-based password manager that supports WebDAV sync. [Sources](https://github.com/PhilippC/keepass2android). `GPL3`
+- [ntodotxt](https://github.com/tmaegel/ntodotxt) - TODO App with sync via WebDAV. `MIT`
 - [Orgzly](https://www.orgzly.com/) - Outliner for notes and to-do lists. [Source code](https://github.com/orgzly).
 - [SimpleTask](https://github.com/mpcjanssen/simpletask-android) - a simple task manager. `GPL3` `Kotlin`
 - [pokatomnik/Davno](https://github.com/pokatomnik/Davno) - webDAV NOtes. `WIP`
