@@ -345,6 +345,8 @@ _Cloud services that offer a WebDAV server or otherwise allow access via WebDAV_
 - [Yandex.Disk](https://yandex.com/dev/disk/webdav/) - Has a WebDAV API that treats its storage like a file system. Based in Russia.
 - [Zaclys](https://www.zaclys.com/) - a NextCloud-based service. Based in France.
 
+Comparision of the providers:
+  * [Linux и бесплатные облачные хранилища, семь лет спустя](https://habr.com/ru/articles/651609/)
 
 ## Extensions
 
