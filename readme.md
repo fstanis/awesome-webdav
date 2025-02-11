@@ -96,7 +96,6 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [WinSCP](https://winscp.net/eng/docs/webdav) - Popular SFTP client that also supports WebDAV (for Windows).
 - [davfs2](https://savannah.nongnu.org/projects/davfs2) - Allows mounting a WebDAV server as a local filesystem (for Linux).
 - [CrossFTP](https://www.crossftp.com/) - Free client software that supports many protocols, including WebDAV (for Windows, Mac and Linux).
-- [FileZilla Pro](https://filezillapro.com/) - Paid version of the popular FTP client includes WebDAV support (for Windows, Mac and Linux).
 - [cadaver](https://notroj.github.io/cadaver/) - Command-line WebDAV client, with support for file upload, download, on-screen display, in-place editing, etc.
 
 <a name="desktop-other-apps" />
