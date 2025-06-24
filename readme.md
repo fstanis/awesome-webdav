@@ -64,6 +64,7 @@ _Standalone servers specifically built for WebDAV and its extensions_
 - [miniserve](https://github.com/svenstaro/miniserve) - A file sharing server, supports read-only WebDAV
 - [sabre/dav](https://sabre.io/) - Open source CardDAV, CalDAV and WebDAV server.
 - [SFTPGo](https://github.com/drakkan/sftpgo) - SFTP server with optional FTP/S and WebDAV support.
+- [Stalwart](https://github.com/stalwartlabs/stalwart) - Open-source WebDAV, CalDAV and CardDAV server written in Rust.
 
 ### Web servers
 
@@ -82,6 +83,7 @@ _Docker images for easily deploying a WebDAV server_
 
 - [bytemark/webdav](https://hub.docker.com/r/bytemark/webdav) - Based on Apache HTTP Server.
 - [ugeek/webdav](https://hub.docker.com/r/ugeek/webdav) - Based on nginx.
+- [stalwartlabs/stalwart](https://hub.docker.com/r/stalwartlabs/stalwart) - Open-source WebDAV, CalDAV and CardDAV server written in Rust.
 
 ## Desktop apps
 
