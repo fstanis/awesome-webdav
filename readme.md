@@ -70,6 +70,7 @@ _Standalone servers and personal cloud solutions specifically built for WebDAV a
 - [dave](https://github.com/micromata/dave/) - a simple WebDAV server written in Go
 - [hacdias-webdav](https://github.com/hacdias/webdav) - A simple yet configurable WebDAV server written in Go.
 - [FuguHub](https://fuguhub.com/) - a personal cloud server with a web ui.
+- [Group-Office](https://www.group-office.com/) - Open Source CRM and Groupware with CalDAV, CardDAV and WebDAV.
 - [Nextcloud](https://docs.nextcloud.com/server/latest/user_manual/en/files/access_webdav.html) - Personal cloud solution. See [demo](https://clouddemo.nextfiles.eu/)
 - [Nephele Serve](https://www.npmjs.com/package/nephele-serve) - File System or S3 Backed WebDAV Server. `Apache-2.0`
 - [ownCloud](https://doc.owncloud.org/server/latest/user_manual/files/access_webdav.html) - Personal cloud solution.
