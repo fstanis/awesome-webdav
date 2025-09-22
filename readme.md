@@ -68,10 +68,10 @@ _Standalone servers and personal cloud solutions specifically built for WebDAV a
 - [asgi-webdav](https://github.com/rexzhang/asgi-webdav) -a An asynchronous WebDAV server, Support multi-provider, multi-account and permission control. `MIT` `Python`
 - [Davis](https://github.com/tchapi/davis) a simple interfacefor sabre/dav based on Symfony and Bootstrap, largely inspired by Baïkal.
 - [dave](https://github.com/micromata/dave/) - a simple WebDAV server written in Go
-- [hacdias-webdav](https://github.com/hacdias/webdav) - A simple yet configurable WebDAV server written in Go.
 - [FuguHub](https://fuguhub.com/) - a personal cloud server with a web ui.
 - [Group-Office](https://www.group-office.com/) - Open Source CRM and Groupware with CalDAV, CardDAV and WebDAV.
-- [Nextcloud](https://docs.nextcloud.com/server/latest/user_manual/en/files/access_webdav.html) - Personal cloud solution. See [demo](https://clouddemo.nextfiles.eu/)
+- [hacdias-webdav](https://github.com/hacdias/webdav) - A simple yet configurable WebDAV server written in Go.
+- [Nextcloud](https://nextcloud.com/) - Collaboration and communication platform -- includes files, calendar, contacts, mailclient, chat, videoconferencing and much more. [Try it](https://try.nextcloud.com), [Docs webDAV](https://docs.nextcloud.com/server/latest/user_manual/en/files/access_webdav.html), [Docs calDAV](https://docs.nextcloud.com/server/latest/admin_manual/groupware/calendar.html), [Docs cardDAV](https://docs.nextcloud.com/server/latest/admin_manual/groupware/contacts.html)
 - [Nephele Serve](https://www.npmjs.com/package/nephele-serve) - File System or S3 Backed WebDAV Server. `Apache-2.0`
 - [ownCloud](https://doc.owncloud.org/server/latest/user_manual/files/access_webdav.html) - Personal cloud solution.
 - [QuickDAV](https://sciactive.com/quickdav/) - Network file transfer app. [Sources](https://github.com/sciactive/quickdav). `Apache-2.0`
@@ -80,7 +80,7 @@ _Standalone servers and personal cloud solutions specifically built for WebDAV a
 - [sabre/dav](https://sabre.io/) - Open source CardDAV, CalDAV and WebDAV server.
 - [Seafile](https://github.com/haiwen/seafdav) - A webdav server written in Python
 - [SFTPGo](https://github.com/drakkan/sftpgo) - SFTP server with optional FTP/S and WebDAV support.
-- [Stalwart](https://github.com/stalwartlabs/stalwart) - Open-source WebDAV, CalDAV and CardDAV server written in Rust.
+- [Stalwart](https://github.com/stalwartlabs/stalwart) - Open-source Mailserver and WebDAV, CalDAV and CardDAV server written in Rust.
 - [tolsen/limestone](https://github.com/tolsen/limestone) - Advanced WebDAV server backed by a Postgres database. Supports ACL, Search, BIND, Redirect, and partial DeltaV.
 - [tolsen/limeberry](https://github.com/tolsen/limeberry) - WebDAV server (Rails 1.2)
 - [weborf](https://ltworf.github.io/weborf/) - a minimal HTTP server to share your files. Has a GUI [qweborf](https://ltworf.github.io/weborf/qweborf.html).
