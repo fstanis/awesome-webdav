@@ -66,14 +66,14 @@ _Setting up a WebDAV server_
 _Standalone servers and personal cloud solutions specifically built for WebDAV and its extensions_
 
 - [asgi-webdav](https://github.com/rexzhang/asgi-webdav) -a An asynchronous WebDAV server, Support multi-provider, multi-account and permission control. `MIT` `Python`
-- [Davis](https://github.com/tchapi/davis) a simple interfacefor sabre/dav based on Symfony and Bootstrap, largely inspired by Baïkal.
-- [dave](https://github.com/micromata/dave/) - a simple WebDAV server written in Go
-- [FuguHub](https://fuguhub.com/) - a personal cloud server with a web ui.
+- [Davis](https://github.com/tchapi/davis) - a simple interfacefor `sabre/dav` based on `Symfony` and `Bootstrap`, largely inspired by `Baïkal`.
+- [dave](https://github.com/micromata/dave/) - a simple WebDAV server written in Go. `Apache-2.0` `Golang`
+- [FuguHub](https://fuguhub.com/) - a personal cloud server with a web UI.
 - [Group-Office](https://www.group-office.com/) - Open Source CRM and Groupware with CalDAV, CardDAV and WebDAV.
 - [hacdias-webdav](https://github.com/hacdias/webdav) - A simple yet configurable WebDAV server written in Go.
-- [Nextcloud](https://nextcloud.com/) - Collaboration and communication platform -- includes files, calendar, contacts, mailclient, chat, videoconferencing and much more. [Try it](https://try.nextcloud.com), [Docs webDAV](https://docs.nextcloud.com/server/latest/user_manual/en/files/access_webdav.html), [Docs calDAV](https://docs.nextcloud.com/server/latest/admin_manual/groupware/calendar.html), [Docs cardDAV](https://docs.nextcloud.com/server/latest/admin_manual/groupware/contacts.html)
+- [Nextcloud](https://nextcloud.com/) - Collaboration and communication platform: includes files, calendar, contacts, mailclient, chat, videoconferencing and much more. [Try it](https://try.nextcloud.com), [Docs WebDAV](https://docs.nextcloud.com/server/latest/user_manual/en/files/access_webdav.html), [Docs calDAV](https://docs.nextcloud.com/server/latest/admin_manual/groupware/calendar.html), [Docs CardDAV](https://docs.nextcloud.com/server/latest/admin_manual/groupware/contacts.html). `AGPL-3.0` `PHP`
 - [Nephele Serve](https://www.npmjs.com/package/nephele-serve) - File System or S3 Backed WebDAV Server. `Apache-2.0`
-- [ownCloud](https://doc.owncloud.org/server/latest/user_manual/files/access_webdav.html) - Personal cloud solution.
+- [ownCloud](https://doc.owncloud.org/server/latest/user_manual/files/access_webdav.html) - Personal cloud solution, brother project to the `NextCloud`.  `AGPL-3.0` `PHP`
 - [QuickDAV](https://sciactive.com/quickdav/) - Network file transfer app. [Sources](https://github.com/sciactive/quickdav). `Apache-2.0`
 - [phởdav (a.k.a. chezdav)](https://wiki.gnome.org/phodav) - A minimal open source WebDAV server, ideal for sharing one folder (for FreeBSD, Linux, and Windows).
 - [miniserve](https://github.com/svenstaro/miniserve) - A file sharing server, supports read-only WebDAV
@@ -250,7 +250,7 @@ _Apps that support WebDAV in some form, e.g. for backup and sync_
 - [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - KeePass-based password manager that supports WebDAV sync. [Sources](https://github.com/PhilippC/keepass2android). `GPL3`
 - [ntodotxt](https://github.com/tmaegel/ntodotxt) - TODO App with sync via WebDAV. `MIT`
 - [Orgzly](https://www.orgzly.com/) - Outliner for notes and to-do lists. [Source code](https://github.com/orgzly).
-- [pokatomnik/Davno](https://github.com/pokatomnik/Davno) - webDAV NOtes. `WIP`
+- [pokatomnik/Davno](https://github.com/pokatomnik/Davno) - Web**DAV NO**tes, Android app, unfinished. `WIP`, `Kotlin`
 - [SimpleTask](https://github.com/mpcjanssen/simpletask-android) - a simple task manager. `GPL3` `Kotlin`
 - [Table Habit](https://github.com/FriesI23/mhabit) – Micro habits tracking app with [sync via WebDAV](https://github.com/FriesI23/mhabit/wiki/Feature%EA%9E%89-WebDAV-Sync). `AL2` `Dart`  `Apache-2.0`
 
@@ -278,7 +278,7 @@ _Apps that support WebDAV in some form, e.g. for backup and sync_
 - [beorg](https://apps.apple.com/app/beorg-to-do-list-agenda/id1238649962) - TO-DO list and agenda app with WebDAV sync support.
 - [GoodReader](https://apps.apple.com/app/goodreader-pdf-editor-viewer/id777310222) - PDF viewer and editor that supports WebDAV sync.
 - [Joplin](https://apps.apple.com/app/joplin/id1315599797) - Note taking and to-do application that supports WebDAV sync.
-- [Notability](https://apps.apple.com/app/notability/id360593530) - Note-taking app that supports webDAV for backups.
+- [Notability](https://apps.apple.com/app/notability/id360593530) - Note-taking app that supports WebDAV for backups.
 - [Notebooks 10](https://apps.apple.com/app/notebooks-write-and-organize/id1490084838) - Writing app, a text and markdown editor with WebDAV support.
 - [PotPlayer](https://potplayer.daum.net/) - Windows only.
 - [Strongbox](https://apps.apple.com/app/strongbox-password-safe/id897283731) - KeePass-based password manager that supports WebDAV sync.
