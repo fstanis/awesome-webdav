@@ -246,6 +246,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 
 _Apps that support WebDAV in some form, e.g. for backup and sync_
 
+- [BeeCount](https://github.com/TNT-Likely/BeeCount) – Privacy-first expense tracker with multi-backend cloud sync including WebDAV. `Source-Available` `Dart`
 - [Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin) - Note taking and to-do application that supports WebDAV sync.
 - [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - KeePass-based password manager that supports WebDAV sync. [Sources](https://github.com/PhilippC/keepass2android). `GPL3`
 - [Moon+ Reader](https://www.moondownload.com) - Reading app that supports syncing books, reading position, notes, & highlights via WebDAV. `Proprietary`
@@ -276,6 +277,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 _Apps that support WebDAV in some form, e.g. for backup and sync_
 
 - [1Writer](https://apps.apple.com/app/1writer-markdown-text-editor/id680469088) - Markdown text editor that supports importing from WebDAV.
+- [BeeCount](https://apps.apple.com/app/id6754611670) – Privacy-first expense tracker with multi-backend cloud sync including WebDAV. [Source](https://github.com/TNT-Likely/BeeCount). `Source-Available` `Dart`
 - [beorg](https://apps.apple.com/app/beorg-to-do-list-agenda/id1238649962) - TO-DO list and agenda app with WebDAV sync support.
 - [GoodReader](https://apps.apple.com/app/goodreader-pdf-editor-viewer/id777310222) - PDF viewer and editor that supports WebDAV sync.
 - [Joplin](https://apps.apple.com/app/joplin/id1315599797) - Note taking and to-do application that supports WebDAV sync.
