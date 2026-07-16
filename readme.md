@@ -157,6 +157,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [Far Manager](https://www.farmanager.com/) - A Norton Comander like file manager for Windows. Has a NetBox plugin with WebDAV support.
 - [far2l](https://github.com/elfmz/far2l) - A heavily rewritten Linux and MacOS port of FAR Manager. Has a NetRocks plugin with WebDAV support.
 - [FileZilla Pro](https://filezillapro.com/how-to-connect-to-webdav/) - File transfer tool that supports many protocols, including WebDAV (for Windows, Mac and Linux).
+- [PotPlayer](https://potplayer.tv) - Windows only. `Proprietary`
 - [SmartFTP](https://www.smartftp.com/) - A file transfer program. `Proprietary`
 - [UIVI](https://sourceforge.net/projects/uivi/) - a Java GUI client. Can be runned as JNLP applet. `Public Domain` `Java`
 - [WinSCP](https://winscp.net/) - A popular SFTP client that also supports WebDAV (for Windows). `Proprietary`
@@ -188,7 +189,7 @@ _Apps and browser extensions that support WebDAV in some form, e.g. for backup a
 
 - [Buttercup](https://buttercup.pw/) - A password manager. [Source code](https://github.com/buttercup)
 - [Cryptomator](https://cryptomator.org/) - a tool to encrypt files and backup.
-- [KODI](https://kodi.tv/) - An advanced media player for smart TV Raspberry Pi, Android, tvOS.
+- [KODI](https://kodi.tv/) - An advanced media player for smart TV: Raspberry Pi, Android, tvOS.
 - [gnome-user-share](https://gitlab.gnome.org/GNOME/gnome-user-share) - configure an Apache WebDAV directly from Nautilus
 - [Gnome Gnote](https://wiki.gnome.org/Apps/Gnote) - app for taking notes with WebDAV sync.
 - [KeePass Password Safe](https://keepass.info/) - Password manager that supports WebDAV sync (for Windows).
@@ -267,10 +268,10 @@ _Apps that support WebDAV in some form, e.g. for backup and sync_
 _General purpose apps to browse and manage files on a WebDAV server_
 
 - Apple Files app – Can connect to WebDAV servers. `Proprietary`
-- [Documents: File Manager & Docs](https://apps.apple.com/us/app/documents-file-manager-docs/id364901807) - PDF Converter & Reader, ZIP/RAR, suppoers WebDAV.
+- [Documents: File Manager & Docs](https://apps.apple.com/app/documents-file-manager-docs/id364901807) - PDF Converter & Reader, ZIP/RAR, suppoers WebDAV.
 - [WebDAV Nav+](https://apps.apple.com/app/webdav-nav/id412341302) - Download, share, store and edit files on a WebDAV server.
 - [WebDAV Navigator](https://apps.apple.com/app/webdav-navigator/id382551345) - Download, share, store and edit files on a WebDAV server.
-- [Owlfiles](https://apps.apple.com/us/app/owlfiles-file-manager/id510282524) - File Manager. `Proprietary`
+- [Owlfiles](https://apps.apple.com/app/owlfiles-file-manager/id510282524) - File Manager. `Proprietary`
 - [FE File Explorer](https://apps.apple.com/app/id499470113) - a file manager from OwlFiles developers.  Supports music and video playback, text editing, local folder sync.  `Proprietary`
 
 <a name="ios-other-apps" />
@@ -286,7 +287,6 @@ _Apps that support WebDAV in some form, e.g. for backup and sync_
 - [Joplin](https://apps.apple.com/app/joplin/id1315599797) - Note taking and to-do application that supports WebDAV sync.
 - [Notability](https://apps.apple.com/app/notability/id360593530) - Note-taking app that supports WebDAV for backups.
 - [Notebooks 10](https://apps.apple.com/app/notebooks-write-and-organize/id1490084838) - Writing app, a text and markdown editor with WebDAV support.
-- [PotPlayer](https://potplayer.daum.net/) - Windows only.
 - [Strongbox](https://apps.apple.com/app/strongbox-password-safe/id897283731) - KeePass-based password manager that supports WebDAV sync.
 - [Table Habit](https://github.com/FriesI23/mhabit) – Micro habits tracking app with [sync via WebDAV](https://github.com/FriesI23/mhabit/wiki/Feature%EA%9E%89-WebDAV-Sync). `AL2` `Dart`  `Apache-2.0`
 
