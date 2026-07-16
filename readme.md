@@ -65,7 +65,8 @@ _Setting up a WebDAV server_
 
 _Standalone servers and personal cloud solutions specifically built for WebDAV and its extensions_
 
-- [asgi-webdav](https://github.com/rexzhang/asgi-webdav) -a An asynchronous WebDAV server, Support multi-provider, multi-account and permission control. `MIT` `Python`
+- [asgi-webdav](https://github.com/rexzhang/asgi-webdav) - an asynchronous WebDAV server, Support multi-provider, multi-account and permission control. `MIT` `Python`
+- [copyparty](https://github.com/9001/copyparty) - a portable file server with resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails. It has an [Android app](https://f-droid.org/packages/me.ocv.partyup/).  `MIT` `Python`
 - [Davis](https://github.com/tchapi/davis) - a simple interfacefor `sabre/dav` based on `Symfony` and `Bootstrap`, largely inspired by `Baïkal`.
 - [dave](https://github.com/micromata/dave/) - a simple WebDAV server written in Go. `Apache-2.0` `Golang`
 - [FuguHub](https://fuguhub.com/) - a personal cloud server with a web UI.
@@ -265,7 +266,9 @@ _Apps that support WebDAV in some form, e.g. for backup and sync_
 
 _General purpose apps to browse and manage files on a WebDAV server_
 
+- Apple Files app – Can connect to WebDAV servers. `Proprietary`
 - [Documents: File Manager & Docs](https://apps.apple.com/us/app/documents-file-manager-docs/id364901807) - PDF Converter & Reader, ZIP/RAR, suppoers WebDAV.
+- [FE File Explorer](https://apps.apple.com/app/id499470113)
 - [WebDAV Nav+](https://apps.apple.com/app/webdav-nav/id412341302) - Download, share, store and edit files on a WebDAV server.
 - [WebDAV Navigator](https://apps.apple.com/app/webdav-navigator/id382551345) - Download, share, store and edit files on a WebDAV server.
 - [Owlfiles](https://apps.apple.com/us/app/owlfiles-file-manager/id510282524) - File Manager. `Proprietary`
