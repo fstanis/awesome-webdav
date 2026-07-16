@@ -268,10 +268,10 @@ _General purpose apps to browse and manage files on a WebDAV server_
 
 - Apple Files app – Can connect to WebDAV servers. `Proprietary`
 - [Documents: File Manager & Docs](https://apps.apple.com/us/app/documents-file-manager-docs/id364901807) - PDF Converter & Reader, ZIP/RAR, suppoers WebDAV.
-- [FE File Explorer](https://apps.apple.com/app/id499470113)
 - [WebDAV Nav+](https://apps.apple.com/app/webdav-nav/id412341302) - Download, share, store and edit files on a WebDAV server.
 - [WebDAV Navigator](https://apps.apple.com/app/webdav-navigator/id382551345) - Download, share, store and edit files on a WebDAV server.
 - [Owlfiles](https://apps.apple.com/us/app/owlfiles-file-manager/id510282524) - File Manager. `Proprietary`
+- [FE File Explorer](https://apps.apple.com/app/id499470113) - a file manager from OwlFiles developers.  Supports music and video playback, text editing, local folder sync.  `Proprietary`
 
 <a name="ios-other-apps" />
 
