@@ -153,6 +153,7 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 
 _General purpose apps to browse and manage files on a WebDAV server_
 
+- [AnyStorage](https://anystorage.dev/webdav-client) - Desktop client for WebDAV, S3-compatible and cloud drive storage that can also expose all connected storage through a local WebDAV server for mounting (for Windows, Mac and Linux). `Proprietary`
 - [CrossFTP](https://www.crossftp.com/) - Free client software that supports many protocols, including WebDAV (for Windows, Mac and Linux).
 - [Far Manager](https://www.farmanager.com/) - A Norton Comander like file manager for Windows. Has a NetBox plugin with WebDAV support.
 - [far2l](https://github.com/elfmz/far2l) - A heavily rewritten Linux and MacOS port of FAR Manager. Has a NetRocks plugin with WebDAV support.
