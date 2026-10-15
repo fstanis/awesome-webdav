@@ -339,6 +339,7 @@ _Libraries for accessing a WebDAV storage and/or building a WebDAV server_
 
 ### Python
 
+- [webdav-rfc4918](https://webdav.readthedocs.io) - Secure-by-default WebDAV client built on RFC 4918 and RFC 5689, with a filesystem-style API, an fsspec filesystem (pandas, dask) and a `dav` command. Tested in CI against Nextcloud, Apache, nginx and WsgiDAV. `MIT` `Python`
 - [webdavclient3](https://pypi.org/project/webdavclient3/) - WebDAV client for Python 3.x.
 - [YaDiskClient](https://github.com/TyVik/YaDiskClient) - a simple to use client for Yandex Disk. `MIT`
 
