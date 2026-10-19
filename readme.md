@@ -250,6 +250,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 _Apps that support WebDAV in some form, e.g. for backup and sync_
 
 - [BeeCount](https://github.com/TNT-Likely/BeeCount) – Privacy-first expense tracker with multi-backend cloud sync including WebDAV. `Source-Available` `Dart`
+- [Easemic](https://github.com/dirtyfancy/easemic) - Native Android comic and manga reader supporting encrypted cloud streaming and library backup over WebDAV. `Apache-2.0` `Kotlin`
 - [Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin) - Note taking and to-do application that supports WebDAV sync.
 - [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - KeePass-based password manager that supports WebDAV sync. [Sources](https://github.com/PhilippC/keepass2android). `GPL3`
 - [Moon+ Reader](https://www.moondownload.com) - Reading app that supports syncing books, reading position, notes, & highlights via WebDAV. `Proprietary`
