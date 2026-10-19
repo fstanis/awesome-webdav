@@ -259,6 +259,7 @@ _Apps that support WebDAV in some form, e.g. for backup and sync_
 - [pokatomnik/Davno](https://github.com/pokatomnik/Davno) - Web**DAV NO**tes, Android app, unfinished. `WIP`, `Kotlin`
 - [SimpleTask](https://github.com/mpcjanssen/simpletask-android) - a simple task manager. `GPL3` `Kotlin`
 - [Table Habit](https://github.com/FriesI23/mhabit) – Micro habits tracking app with [sync via WebDAV](https://github.com/FriesI23/mhabit/wiki/Feature%EA%9E%89-WebDAV-Sync). `AL2` `Dart`  `Apache-2.0`
+- [Waifu Deck](https://github.com/fancydirty/waifu-deck) - Anime art collection app with [client-side encrypted multi-device library sync over WebDAV](https://github.com/fancydirty/waifu-deck/blob/main/docs/storage-backends.md). `AGPL-3.0` `TypeScript`
 
 
 ### iOS
