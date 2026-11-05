@@ -163,6 +163,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [UIVI](https://sourceforge.net/projects/uivi/) - a Java GUI client. Can be runned as JNLP applet. `Public Domain` `Java`
 - [WinSCP](https://winscp.net/) - A popular SFTP client that also supports WebDAV (for Windows). `Proprietary`
 - [WebDrive](https://webdrive.com/) - A drive mapping utility. Windows, OS X, Android and iOS. `Proprietary`
+- [Zouk](https://github.com/woodie/zouk#compatibility) - A simple macOS client that shows a guest-access WebDAV folder as a grid of thumbnails, with drag-and-drop upload. `MIT` `Swift`
 
 #### macOS only
 - [Commander One](https://mac.eltima.com/file-manager.html) - A file manager for macOS
