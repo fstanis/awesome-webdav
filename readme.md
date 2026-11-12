@@ -194,6 +194,7 @@ _Apps and browser extensions that support WebDAV in some form, e.g. for backup a
 - [gnome-user-share](https://gitlab.gnome.org/GNOME/gnome-user-share) - configure an Apache WebDAV directly from Nautilus
 - [Gnome Gnote](https://wiki.gnome.org/Apps/Gnote) - app for taking notes with WebDAV sync.
 - [KeePass Password Safe](https://keepass.info/) - Password manager that supports WebDAV sync (for Windows).
+- [Noteriv](https://www.noteriv.com/) - Markdown note-taking app for Linux, macOS and Windows with [two-way vault sync over WebDAV](https://thejacedev.github.io/Noteriv/sync/webdav-sync). [Source code](https://github.com/thejacedev/Noteriv)
 - [PhotoPrism](https://photoprism.app/) AI-Powered Photos App. Supports [sync by WebDAV](https://docs.photoprism.app/user-guide/sync/webdav/)
 - [Floccus](https://floccus.org/) - Browser extension for bookmark sync that supports WebDAV (for Chrome, Firefox and Edge).
 - [RetroArch](https://retroarch.com) - A frontend for emulators and game engines that can use WebDAV for backing up game saves.
