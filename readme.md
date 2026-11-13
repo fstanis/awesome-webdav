@@ -161,6 +161,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [Far Manager](https://www.farmanager.com/) - A Norton Comander like file manager for Windows. Has a NetBox plugin with WebDAV support.
 - [far2l](https://github.com/elfmz/far2l) - A heavily rewritten Linux and MacOS port of FAR Manager. Has a NetRocks plugin with WebDAV support.
 - [FileZilla Pro](https://filezillapro.com/how-to-connect-to-webdav/) - File transfer tool that supports many protocols, including WebDAV (for Windows, Mac and Linux).
+- [Huck](https://github.com/woodie/huck#compatibility) - A simple Windows client that shows a guest-access WebDAV folder as a grid of thumbnails, with drag-and-drop upload. `MIT` `Kotlin`
 - [PotPlayer](https://potplayer.tv) - Windows only. `Proprietary`
 - [SmartFTP](https://www.smartftp.com/) - A file transfer program. `Proprietary`
 - [UIVI](https://sourceforge.net/projects/uivi/) - a Java GUI client. Can be runned as JNLP applet. `Public Domain` `Java`
