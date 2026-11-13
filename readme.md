@@ -72,9 +72,11 @@ _Standalone servers and personal cloud solutions specifically built for WebDAV a
 - [FuguHub](https://fuguhub.com/) - a personal cloud server with a web UI.
 - [Group-Office](https://www.group-office.com/) - Open Source CRM and Groupware with CalDAV, CardDAV and WebDAV.
 - [hacdias-webdav](https://github.com/hacdias/webdav) - A simple yet configurable WebDAV server written in Go.
+- [KaraDAV](https://github.com/kd2org/karadav) - Lightweight and fast WebDAV server, compatible with NextCloud, OpenCloud and ownCloud apps. `AGPL` `PHP`
 - [Nextcloud](https://nextcloud.com/) - Collaboration and communication platform: includes files, calendar, contacts, mailclient, chat, videoconferencing and much more. [Try it](https://try.nextcloud.com), [Docs WebDAV](https://docs.nextcloud.com/server/latest/user_manual/en/files/access_webdav.html), [Docs calDAV](https://docs.nextcloud.com/server/latest/admin_manual/groupware/calendar.html), [Docs CardDAV](https://docs.nextcloud.com/server/latest/admin_manual/groupware/contacts.html). `AGPL-3.0` `PHP`
 - [Nephele Serve](https://www.npmjs.com/package/nephele-serve) - File System or S3 Backed WebDAV Server. `Apache-2.0`
 - [ownCloud](https://doc.owncloud.org/server/latest/user_manual/files/access_webdav.html) - Personal cloud solution, brother project to the `NextCloud`.  `AGPL-3.0` `PHP`
+- [PicoDAV](https://github.com/kd2org/picodav/) - A lightweight single-file WebDAV server that can be dropped in any shared webhosting, including a web UI `AGPL` `PHP`
 - [QuickDAV](https://sciactive.com/quickdav/) - Network file transfer app. [Sources](https://github.com/sciactive/quickdav). `Apache-2.0`
 - [phởdav (a.k.a. chezdav)](https://wiki.gnome.org/phodav) - A minimal open source WebDAV server, ideal for sharing one folder (for FreeBSD, Linux, and Windows).
 - [miniserve](https://github.com/svenstaro/miniserve) - A file sharing server, supports read-only WebDAV
@@ -129,6 +131,7 @@ See an example [WebDAV with CORS using Lighttpd](https://gist.github.com/stokito
 - [webdave](https://katomaso.github.io/webdave/) - A file manager. [Source code](https://github.com/katomaso/webdave)
 - [webdav-js](https://github.com/dom111/webdav-js) - A simple WebDAV file manager for use as a bookmarklet, or integration into a web server. May be used as a simplest in-browser UI
 - [webdav-browser](https://github.com/WebDAVDevs/webdav-browser-extension) - a browser extension to browse a URL as a WebDAV share directly. `0BSD`, `JavaScript`
+- [webdav-manager.js](https://github.com/kd2org/webdav-manager.js/) - A WebDAV file manager in JS, that is small and light (embedded in KaraDAV and PicoDAV) `AGPL` `JavaScript`
 
 ## Command line tools
 <a name="cli" />
