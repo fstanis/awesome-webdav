@@ -69,6 +69,7 @@ _Standalone servers and personal cloud solutions specifically built for WebDAV a
 - [copyparty](https://github.com/9001/copyparty) - a portable file server with resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails. It has an [Android app](https://f-droid.org/packages/me.ocv.partyup/).  `MIT` `Python`
 - [Davis](https://github.com/tchapi/davis) - a simple interfacefor `sabre/dav` based on `Symfony` and `Bootstrap`, largely inspired by `Baïkal`.
 - [dave](https://github.com/micromata/dave/) - a simple WebDAV server written in Go. `Apache-2.0` `Golang`
+- [filex](https://github.com/BRF-Tech/filex/blob/main/docs/WEBDAV.md) - a self-hosted file manager that serves each connected storage (local disk, S3, SFTP, FTP, SMB) over WebDAV, with the same accounts and permissions as its web UI. `MIT` `Golang`
 - [FuguHub](https://fuguhub.com/) - a personal cloud server with a web UI.
 - [Group-Office](https://www.group-office.com/) - Open Source CRM and Groupware with CalDAV, CardDAV and WebDAV.
 - [hacdias-webdav](https://github.com/hacdias/webdav) - A simple yet configurable WebDAV server written in Go.
