@@ -110,6 +110,7 @@ _Web servers that support WebDAV or have modules to enable WebDAV support_
 _Docker images for easily deploying a WebDAV server_
 
 - [bytemark/webdav](https://hub.docker.com/r/bytemark/webdav) - Based on Apache HTTP Server.
+- [fstanis/docker-webdav-server](https://github.com/fstanis/docker-webdav-server) - Based on Apache HTTP Server with a simple to configure permission model.
 - [ugeek/webdav](https://hub.docker.com/r/ugeek/webdav) - Based on nginx.
 - [stalwartlabs/stalwart](https://hub.docker.com/r/stalwartlabs/stalwart) - Open-source WebDAV, CalDAV and CardDAV server written in Rust.
 
