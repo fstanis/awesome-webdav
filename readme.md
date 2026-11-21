@@ -165,6 +165,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [FileZilla Pro](https://filezillapro.com/how-to-connect-to-webdav/) - File transfer tool that supports many protocols, including WebDAV (for Windows, Mac and Linux).
 - [Huck](https://github.com/woodie/huck#compatibility) - A simple Windows client that shows a guest-access WebDAV folder as a grid of thumbnails, with drag-and-drop upload. `MIT` `Kotlin`
 - [PotPlayer](https://potplayer.tv) - Windows only. `Proprietary`
+- [ScsDrive](https://drive.scsoi.com/guide/webdav-mount-windows) - Mounts a WebDAV server as a local Windows drive letter, so it appears under "This PC" with its own letter. No administrator rights needed. `Proprietary`
 - [SmartFTP](https://www.smartftp.com/) - A file transfer program. `Proprietary`
 - [UIVI](https://sourceforge.net/projects/uivi/) - a Java GUI client. Can be runned as JNLP applet. `Public Domain` `Java`
 - [WinSCP](https://winscp.net/) - A popular SFTP client that also supports WebDAV (for Windows). `Proprietary`
