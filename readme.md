@@ -187,6 +187,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 _Apps used for backup and/or synchronizing data between multiple destinations_
 
 - [rclone](https://rclone.org/) - Supports WebDAV as a backup target and [can itself act as a WebDAV server](https://rclone.org/commands/rclone_serve_webdav/) (for Windows, Mac and Linux).
+- [BackupKit](https://backupkit.io/use-cases/self-hosted-backup-windows) - Scheduled, encrypted backups with WebDAV as a backup target; archives are standard AES zip files (for Windows). `Proprietary`
 - [Duplicacy](https://duplicacy.com/) - Beta support for WebDAV as a backup target (for Windows, Mac and Linux).
 - [Duplicati](https://github.com/duplicati/duplicati) - Supports WebDAV as a backup target (for Windows, Mac and Linux).
 - [GNOME Déjà Dup](https://wiki.gnome.org/Apps/DejaDup) - Supports WebDAV as a backup target.
