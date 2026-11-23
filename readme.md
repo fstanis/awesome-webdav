@@ -163,6 +163,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [Far Manager](https://www.farmanager.com/) - A Norton Comander like file manager for Windows. Has a NetBox plugin with WebDAV support.
 - [far2l](https://github.com/elfmz/far2l) - A heavily rewritten Linux and MacOS port of FAR Manager. Has a NetRocks plugin with WebDAV support.
 - [FileZilla Pro](https://filezillapro.com/how-to-connect-to-webdav/) - File transfer tool that supports many protocols, including WebDAV (for Windows, Mac and Linux).
+- [FTPie](https://ftpie.com/connect/webdav) - Dual-pane file manager that connects to WebDAV servers, NAS, FTP, SFTP, S3 and cloud drives, and copies files between them (for Windows). `Proprietary`
 - [Huck](https://github.com/woodie/huck#compatibility) - A simple Windows client that shows a guest-access WebDAV folder as a grid of thumbnails, with drag-and-drop upload. `MIT` `Kotlin`
 - [PotPlayer](https://potplayer.tv) - Windows only. `Proprietary`
 - [ScsDrive](https://drive.scsoi.com/guide/webdav-mount-windows) - Mounts a WebDAV server as a local Windows drive letter, so it appears under "This PC" with its own letter. No administrator rights needed. `Proprietary`
